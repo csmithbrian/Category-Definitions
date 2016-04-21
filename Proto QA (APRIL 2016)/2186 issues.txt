@@ -1,0 +1,48 @@
+SurveyID 2186 issues
+
+Access to Care
+	Should be called 'Access to Care (PCMH)' in order to get DB comparisons
+	Apparently should contain D1DE - not really certain about that, demos should not be part of categories but this is what master category definition shows
+	Won't break out by question in report unless H9DD is removed from Getting Timely Care category
+Getting Timely Appointments, Care, and Information
+	Should not contain H9DD
+Communication - Child Only
+	Not a core category. Fine for custom surveys but probably should not be in core survey
+PCMH - Coordination of Care
+	Not a core category. Fine for custom surveys but probably should not be in core survey.
+	Contains H4FC, H3DB, and Y4AM1 and therefore causing Attention to Care from Other Providers to not breakout by question properly (H4FC is Follow-Up On Test Results which does seem to be displaying correctly for some reason).
+Attention to Care from Other Providers
+	Should be called 'Attention to Care from Other Providers (PCMH)' in order to get database comparisons
+	Won't break out by question in report unless H3DB and Y4AM1 are removed from Coordination of Care
+Provider's Attention to Your Child's Growth and Development
+	Won't break out by question in report unless Y3DB, Y3DC, Y3DD, Y3DE, Y3DK, and Y3DG are removed from additional categories
+	Those questions currently included in 'PCMH - Comprehensiveness/Whole Person Care — Child Developmental' and 'PCMH - Comprehensiveness/Whole Person Care — Child Prevention'
+PCMH - Comprehensiveness/Whole Person Care — Child Prevention
+	Not a core category. Fine for custom surveys but probably should not be in core survey
+	Contains questions from 'Provider's Attention to Your Child's Growth and Development' and 'Provider’s Advice on Keeping Your Child Safe and Healthy', prevents those categories from breaking out by question in reports
+PCMH - Comprehensiveness/Whole Person Care — Child Developmental
+	Not a core category. Fine for custom surveys but probably should not be in core survey
+	Contains questions from 'Provider's Attention to Your Child's Growth and Development', prevents that category from breaking out by question in report
+Provider’s Advice on Keeping Your Child Safe and Healthy
+	Won't break out by question in report unless 'PCMH - Comprehensiveness/Whole Person Care — Child Prevention' is removed
+PCMH - Self Management Support
+	Not a core category. Fine for custom surveys but probably should not be in core survey
+	Blocks proper display of 'Providers Support You in Taking Care of Your Child's Health (PCMH)'
+Providers Support You in Taking Care of Your Child's Health (PCMH)
+	Flagged as IsAdditional in PM databases. Should not be. (questions Y3FH/21065 and Y3FG/21063)
+	Will not break out by question in report unless 'PCMH - Self Management Support' is removed
+Information About Care and Appointments (PCMH)
+	Missing from survey. Technically this should be in the core PCMH Child survey but it is comprised of 2 demo questions. I suspect it is a mistake in the master category definition
+	Probably fine.
+
+
+I think all of this can be solved with the following action:
+Changing 'Providers Support You in Taking Care of Your Child's Health (PCMH)' from IsAdditional=1 to IsAdditional=0 in PM databases.
+Toggling ExcludeInRpts flag for all remaining categories that have IsAdditional=1 in PM databases.
+
+Alternatively leave 'Providers Support You in Taking Care of Your Child's Health (PCMH)' as IsAdditional=1 and simply toggle ExcludeinRpts flag for all other categories with IsAdditional=1.
+
+Peter Edenfield can do this, I've worked with him on similar issues before. The switch is simple and reversible. We would see the results the following day assuming nightly process doesn't fail.
+
+I can put in a mingle if this course of action sounds agreeable to you.
+

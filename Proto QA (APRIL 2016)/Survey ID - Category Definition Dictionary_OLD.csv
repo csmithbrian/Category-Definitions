@@ -1,0 +1,230 @@
+SurveyID,SurveyTypeID,SurveyTypeDesc,Master Category Definition
+422,25,Patient Insights - ASC,No reference
+1008,32,Patient Insights - IP/Rehab,IP Rehab
+1009,67,Patient Insights - OP/Rehab,IP Rehab
+1255,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+1341,25,Patient Insights - ASC,No reference
+1395,89,Employee - Patient Safety Culture,--
+1403,17,Patient Insights - OP,Outpatient
+1404,18,Patient Insights - ED,ED
+1423,18,Patient Insights - ED,ED
+1430,17,Patient Insights - OP,Outpatient
+1440,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+1456,134,Patient Insights - Nursing Home,Nursing Home
+1468,25,Patient Insights - ASC,No reference
+1475,17,Patient Insights - OP,Outpatient
+1475,79,Patient Insights - OP/SDS,Outpatient
+1494,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+1521,17,Patient Insights - OP,Outpatient
+1522,18,Patient Insights - ED,ED
+1559,72,Patient Insights - IP/Other,IP Other
+1628,82,Patient Insights - HH CAHPS (Mail),HH-CAHPS
+1629,88,Patient Insights - HH CAHPS (Phone),HH-CAHPS
+1698,25,Patient Insights - ASC,No reference
+1715,17,Patient Insights - OP,Outpatient
+1812,25,Patient Insights - ASC,No reference
+1823,17,Patient Insights - OP,Outpatient
+1823,59,Patient Sat - OP (Custom),Outpatient
+1863,82,Patient Insights - HH CAHPS (Mail),HH-CAHPS
+1867,25,Patient Insights - ASC,No reference
+1874,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+1875,89,Employee - Patient Safety Culture,--
+1883,25,Patient Insights - ASC,No reference
+1956,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+1982,13,Patient Insights - Bariatric,No reference
+1983,25,Patient Insights - ASC,ASC-CAHPS
+1992,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+1993,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+1997,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2011,155,Patient Insights - CG-CAHPS Visit (eSurvey),CG-CAHPS Visit
+2015,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2016,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+2016,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2016,158,Patient Insights - CG-CAHPS 12M (eSurvey+Phone),CG-CAHPS 12 Month
+2032,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2043,141,Patient Insights - CG-CAHPS(Visit Phone),CG-CAHPS Visit
+2053,126,Patient Insights - ICH-CAHPS,ICH-CAHPS
+2064,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+2064,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2064,158,Patient Insights - CG-CAHPS 12M (eSurvey+Phone),CG-CAHPS 12 Month
+2065,155,Patient Insights - CG-CAHPS Visit (eSurvey),CG-CAHPS Visit
+2086,16,Patient Insights - IP,HCAHPS
+2086,72,Patient Insights - IP/Other,HCAHPS
+2087,16,Patient Insights - IP,HCAHPS
+2087,72,Patient Insights - IP/Other,HCAHPS
+2087,76,Patient Insights - IP/PEDS,HCAHPS
+2111,141,Patient Insights - CG-CAHPS(Visit Phone),CG-CAHPS Visit
+2111,155,Patient Insights - CG-CAHPS Visit (eSurvey),CG-CAHPS Visit
+2126,25,Patient Insights - ASC,ASC-CAHPS
+2149,16,Patient Insights - IP,HCAHPS
+2149,72,Patient Insights - IP/Other,HCAHPS
+2165,139,Patient Insights - CG-CAHPS (PCMH Phone),PCMH-Adult
+2165,165,Patient Insights - CAHPS PCMH (eSurvey+Phone),PCMH-Adult
+2165,166,Patient Insights - NCQA PCMH (eSurvey),PCMH-Adult
+2172,37,Patient Insights - POP (12mo Phone),PCMH-Adult
+2172,139,Patient Insights - CG-CAHPS (PCMH Phone),PCMH-Adult
+2172,154,Patient Insights - CG-CAHPS 12M (eSurvey),PCMH-Adult
+2172,156,Patient Insights - CAHPS PCMH (eSurvey),PCMH-Adult
+2172,158,Patient Insights - CG-CAHPS 12M (eSurvey+Phone),PCMH-Adult
+2179,37,Patient Insights - POP (12mo Phone),POP
+2179,154,Patient Insights - CG-CAHPS 12M (eSurvey),POP
+2179,156,Patient Insights - CAHPS PCMH (eSurvey),PCMH-Adult
+2179,158,Patient Insights - CG-CAHPS 12M (eSurvey+Phone),PCMH-Adult
+2186,178,Patient Insights - CAHPS PCMH Child (Phone),PCMH-Child
+2186,210,Patient Insights - CAHPS PCMH Child (eSurvey+Phone),PCMH-Child
+2186,215,Patient Insights - NCQA PCMH Child (eSurvey),PCMH-Child
+2192,25,Patient Insights - ASC,ASC-CAHPS
+2204,16,Patient Insights - IP,HCAHPS
+2207,170,Medical Office - Patient Safety Culture,--
+2219,17,Patient Insights - OP,Outpatient
+2221,18,Patient Insights - ED,ED
+2221,60,Patient Sat - ED (Custom),ED
+2222,17,Patient Insights - OP,Outpatient
+2224,141,Patient Insights - CG-CAHPS(Visit Phone),CG-CAHPS Visit
+2226,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2228,16,Patient Insights - IP,HCAHPS
+2229,18,Patient Insights - ED,ED
+2230,17,Patient Insights - OP,Outpatient
+2232,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2232,158,Patient Insights - CG-CAHPS 12M (eSurvey+Phone),CG-CAHPS 12 Month
+2238,67,Patient Insights - OP/Rehab,IP Rehab
+2244,25,Patient Insights - ASC,ASC-CAHPS
+2244,79,Patient Insights - OP/SDS,Outpatient
+2249,163,Patient Insights - CG-CAHPS Visit Child (Phone),CG-CAHPS 12 Month Child
+2259,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2266,133,Patient Insights - Urgent Care,Urgent Care
+2273,139,Patient Insights - CG-CAHPS (PCMH Phone),PCMH-Adult
+2274,67,Patient Insights - OP/Rehab,IP Rehab
+2277,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2278,133,Patient Insights - Urgent Care,Urgent Care
+2284,160,Patient Insights - CG-CAHPS 12M Child (Phone),CG-CAHPS 12 Month Child
+2285,16,Patient Insights - IP,HCAHPS
+2289,18,Patient Insights - ED,ED
+2306,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+2309,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2310,189,Patient Insights - CG-CAHPS 12M Child (eSurvey),CG-CAHPS 12 Month Child
+2326,16,Patient Insights - IP,HCAHPS
+2327,17,Patient Insights - OP,Outpatient
+2328,18,Patient Insights - ED,ED
+2329,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+2341,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2343,18,Patient Insights - ED,ED
+2344,17,Patient Insights - OP,Outpatient
+2345,16,Patient Insights - IP,HCAHPS
+2346,25,Patient Insights - ASC,ASC-CAHPS
+2352,178,Patient Insights - CAHPS PCMH Child (Phone)-,PCMH-Child
+2353,18,Patient Insights - ED,ED
+2354,17,Patient Insights - OP,Outpatient
+2362,18,Patient Insights - ED,ED
+2390,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2391,17,Patient Insights - OP,Outpatient
+2400,18,Patient Insights - ED,ED
+2406,17,Patient Insights - OP,Outpatient
+2419,184,Patient Insights - CAHPS for ACOs,ACO-8-CAHPS
+2422,17,Patient Insights - OP,Outpatient
+2424,59,Patient Sat - OP (Custom),Outpatient
+2435,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2436,17,Patient Insights - OP,Outpatient
+2438,16,Patient Insights - IP,HCAHPS
+2449,60,Patient Sat - ED (Custom),ED
+2450,67,Patient Insights - OP/Rehab,IP Rehab
+2453,67,Patient Insights - OP/Rehab,IP Rehab
+2454,67,Patient Insights - OP/Rehab,IP Rehab
+2455,189,Patient Insights - CG-CAHPS 12M Child (eSurvey),CG-CAHPS 12 Month Child
+2464,67,Patient Insights - OP/Rehab,IP Rehab
+2466,67,Patient Insights - OP/Rehab,IP Rehab
+2467,67,Patient Insights - OP/Rehab,IP Rehab
+2468,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2469,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2470,134,Patient Insights - Nursing Home,Nursing Home
+2471,25,Patient Insights - ASC,ASC-CAHPS
+2474,17,Patient Insights - OP,Outpatient
+2483,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2486,17,Patient Insights - OP,Outpatient
+2487,17,Patient Insights - OP,Outpatient
+2488,17,Patient Insights - OP,Outpatient
+2489,18,Patient Insights - ED,ED
+2493,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2494,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2496,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2498,155,Patient Insights - CG-CAHPS Visit (eSurvey),CG-CAHPS Visit
+2501,70,Patient Insights - Hospice,Hospice
+2502,89,Employee - Patient Safety Culture-,--
+2511,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2521,18,Patient Insights - ED,ED
+2522,17,Patient Insights - OP,Outpatient
+2525,136,Patient Insights - CG-CAHPS (Visit Mail),CG-CAHPS Visit
+2531,17,Patient Insights - OP,Outpatient
+2533,79,Patient Insights - OP/SDS,Outpatient
+2542,79,Patient Insights - OP/SDS,Outpatient
+2543,133,Patient Insights - Urgent Care,Urgent Care
+2547,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2557,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2558,18,Patient Insights - ED,ED-Transition
+2558,69,Patient Insights - ED/PEDS,ED-Transition
+2559,18,Patient Insights - ED,ED-Transition
+2563,18,Patient Insights - ED,ED-Transition
+2564,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2566,18,Patient Insights - ED,ED-Transition
+2567,126,Patient Insights - ICH-CAHPS,ICH-CAHPS
+2570,17,Patient Insights - OP,Outpatient
+2571,67,Patient Insights - OP/Rehab,IP Rehab
+2572,158,Patient Insights - CG-CAHPS 12M (eSurvey+Phone),CG-CAHPS 12 Month
+2582,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2593,184,Patient Insights - CAHPS for ACOs,ACO-8-CAHPS
+2595,184,Patient Insights - CAHPS for ACOs,ACO-12-CAHPS
+2616,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2617,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2619,17,Patient Insights - OP,Outpatient
+2620,17,Patient Insights - OP,Outpatient
+2625,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2632,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+2637,70,Patient Insights - Hospice,Hospice
+2639,70,Patient Insights - Hospice,Hospice
+2641,18,Patient Insights - ED,ED
+2664,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+2664,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2677,18,Patient Insights - ED,ED
+2678,17,Patient Insights - OP,Outpatient
+2680,211,Patient Insights - Walk-in Clinic,Walk-in Clinic
+2684,126,Patient Insights - ICH-CAHPS,ICH-CAHPS
+2685,158,Patient Insights - CG-CAHPS 12M (eSurvey+Phone),CG-CAHPS 12 Month
+2697,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2706,211,Patient Insights - Walk-in Clinic,Walk-in Clinic
+2710,79,Patient Insights - OP/SDS,OP-Surgery
+2743,211,Patient Insights - Walk-in Clinic,Walk-in Clinic
+2747,79,Patient Insights - OP/SDS,Outpatient
+2748,17,Patient Insights - OP,Outpatient
+2756,37,Patient Insights - POP (12mo Phone),CG-CAHPS 12 Month
+2756,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2760,79,Patient Insights - OP/SDS,Outpatient
+2765,79,Patient Insights - OP/SDS,OP-Surgery
+2768,18,Patient Insights - ED,ED
+2772,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2778,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2784,217,Patient Insights – HCAHPS (Mail),HCAHPS
+2786,17,Patient Insights - OP,Outpatient
+2789,17,Patient Insights - OP,Outpatient
+2796,17,Patient Insights - OP,Outpatient
+2798,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2799,70,Patient Insights - Hospice,Hospice
+2802,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2804,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2809,184,Patient Insights - CAHPS for ACOs,ACO-8-CAHPS
+2812,152,Patient Insights - NICU,NICU
+2828,214,Patient Insights - PQRS CAHPS-,PQRS
+2830,154,Patient Insights - CG-CAHPS 12M (eSurvey),CG-CAHPS 12 Month
+2838,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2839,133,Patient Insights - Urgent Care,Urgent Care
+2842,76,Patient Insights - IP/PEDS,HCAHPS
+2857,77,Patient Insights - OP/Behavioral Health,Outpatient Behavioral
+2876,17,Patient Insights - OP,Outpatient
+2880,79,Patient Insights - OP/SDS,Outpatient
+2883,152,Patient Insights - NICU,NICU
+2884,17,Patient Insights - OP,Outpatient
+2886,16,Patient Insights - IP,HCAHPS
+2889,74,Patient Insights - IP/Behavioral Health,Inpatient Behavioral
+2892,17,Patient Insights - OP,Outpatient
+2893,32,Patient Insights - IP/Rehab,IP Rehab
+2895,79,Patient Insights - OP/SDS,Outpatient
+2896,79,Patient Insights - OP/SDS,Outpatient

@@ -1,0 +1,382 @@
+,SURVID_SURVTYPE,SURVDEF,CATEGORY,MISSING_CAT,ADDTL_CATEGORY,MISSING_QUES,ADDITIONAL_QUES,DUPLICATE_QUES
+1,1867_25,ASC-CAHPS,,Scheduling/Registration,,,,
+2,1867_25,ASC-CAHPS,,Care From Staff,,,,
+3,1867_25,ASC-CAHPS,,Wait Time,,,,
+4,1867_25,ASC-CAHPS,,Facility,,,,
+5,1867_25,ASC-CAHPS,,Rehab,,,,
+6,1867_25,ASC-CAHPS,,Same Day Surgery,,,,
+7,1867_25,ASC-CAHPS,,Overall Rating OF Hospital,,,,
+8,1867_25,ASC-CAHPS,,Willingness to Recommend the Hospital,,,,
+9,1867_25,ASC-CAHPS,,,YOUR CARE FROM NURSES,,,
+10,1867_25,ASC-CAHPS,,,YOUR CARE FROM DOCTORS,,,
+11,1867_25,ASC-CAHPS,,,YOUR EXPERIENCE IN THIS CENTER,,,
+12,1867_25,ASC-CAHPS,,,OVERALL RATING OF CENTER,,,
+13,1812_25,ASC-CAHPS,,Scheduling/Registration,,,,
+14,1812_25,ASC-CAHPS,,Care From Staff,,,,
+15,1812_25,ASC-CAHPS,,Wait Time,,,,
+16,1812_25,ASC-CAHPS,,Facility,,,,
+17,1812_25,ASC-CAHPS,,Rehab,,,,
+18,1812_25,ASC-CAHPS,,Same Day Surgery,,,,
+19,1812_25,ASC-CAHPS,,Overall Rating OF Hospital,,,,
+20,1812_25,ASC-CAHPS,,Willingness to Recommend the Hospital,,,,
+21,1812_25,ASC-CAHPS,,,YOUR CARE FROM NURSES,,,
+22,1812_25,ASC-CAHPS,,,YOUR CARE FROM DOCTORS,,,
+23,1812_25,ASC-CAHPS,,,Doctors,,,
+24,1812_25,ASC-CAHPS,,,YOUR EXPERIENCE IN THIS CENTER,,,
+25,1812_25,ASC-CAHPS,,,OVERALL RATING OF CENTER,,,
+26,1883_25,ASC-CAHPS,,Scheduling/Registration,,,,
+27,1883_25,ASC-CAHPS,,Care From Staff,,,,
+28,1883_25,ASC-CAHPS,,Facility,,,,
+29,1883_25,ASC-CAHPS,,Rehab,,,,
+30,1883_25,ASC-CAHPS,,Same Day Surgery,,,,
+31,1883_25,ASC-CAHPS,,Overall Rating OF Hospital,,,,
+32,1883_25,ASC-CAHPS,,Willingness to Recommend the Hospital,,,,
+33,1883_25,ASC-CAHPS,,,Instructions,,,
+34,1883_25,ASC-CAHPS,,,Find Facility,,,
+35,1883_25,ASC-CAHPS,,,Cleanliness,,,
+36,1883_25,ASC-CAHPS,,,Privacy,,,
+37,1883_25,ASC-CAHPS,,,Treatment By Staff,,,
+38,1883_25,ASC-CAHPS,,,Nurse's Assessment,,,
+39,1883_25,ASC-CAHPS,,,Staff Overall,,,
+40,1883_25,ASC-CAHPS,,,Discharge,,,
+41,1883_25,ASC-CAHPS,,,Trust Physician,,,
+42,1883_25,ASC-CAHPS,,,Billing,,,
+43,1883_25,ASC-CAHPS,WAIT TIME,,,h5d,,
+44,1883_25,ASC-CAHPS,WAIT TIME,,,,q5df,
+45,1468_25,ASC-CAHPS,,Scheduling/Registration,,,,
+46,1468_25,ASC-CAHPS,,Care From Staff,,,,
+47,1468_25,ASC-CAHPS,,Wait Time,,,,
+48,1468_25,ASC-CAHPS,,Facility,,,,
+49,1468_25,ASC-CAHPS,,Rehab,,,,
+50,1468_25,ASC-CAHPS,,Same Day Surgery,,,,
+51,1468_25,ASC-CAHPS,,Overall Rating OF Hospital,,,,
+52,1468_25,ASC-CAHPS,,Willingness to Recommend the Hospital,,,,
+53,1468_25,ASC-CAHPS,,,YOUR CARE FROM NURSES,,,
+54,1468_25,ASC-CAHPS,,,YOUR CARE FROM DOCTORS,,,
+55,1468_25,ASC-CAHPS,,,Doctors,,,
+56,1468_25,ASC-CAHPS,,,YOUR EXPERIENCE IN THIS CENTER,,,
+57,1468_25,ASC-CAHPS,,,OVERALL RATING OF CENTER,,,
+58,2244_25,ASC-CAHPS,,Rehab,,,,
+59,422_25,ASC-CAHPS,,Scheduling/Registration,,,,
+60,422_25,ASC-CAHPS,,Care From Staff,,,,
+61,422_25,ASC-CAHPS,,Wait Time,,,,
+62,422_25,ASC-CAHPS,,Facility,,,,
+63,422_25,ASC-CAHPS,,Rehab,,,,
+64,422_25,ASC-CAHPS,,Same Day Surgery,,,,
+65,422_25,ASC-CAHPS,,Overall Rating OF Hospital,,,,
+66,422_25,ASC-CAHPS,,Willingness to Recommend the Hospital,,,,
+67,422_25,ASC-CAHPS,,,OUR STAFF,,,
+68,422_25,ASC-CAHPS,,,THE MEDICAL ENVIRONMENT,,,
+69,422_25,ASC-CAHPS,,,YOUR MEDICAL CARE,,,
+70,422_25,ASC-CAHPS,,,EXPLANATIONS / INSTRUCTIONS,,,
+71,422_25,ASC-CAHPS,,,Billing,,,
+72,422_25,ASC-CAHPS,,,ACCESS TO SURGERY CENTER,,,
+73,422_25,ASC-CAHPS,,,Overall Satisfaction,,,
+74,1341_25,ASC-CAHPS,,Scheduling/Registration,,,,
+75,1341_25,ASC-CAHPS,,Care From Staff,,,,
+76,1341_25,ASC-CAHPS,,Wait Time,,,,
+77,1341_25,ASC-CAHPS,,Facility,,,,
+78,1341_25,ASC-CAHPS,,Rehab,,,,
+79,1341_25,ASC-CAHPS,,Same Day Surgery,,,,
+80,1341_25,ASC-CAHPS,,Overall Rating OF Hospital,,,,
+81,1341_25,ASC-CAHPS,,Willingness to Recommend the Hospital,,,,
+82,1341_25,ASC-CAHPS,,,SCHEDULING & ARRIVAL,,,
+83,1341_25,ASC-CAHPS,,,YOUR CARE FROM NURSES,,,
+84,1341_25,ASC-CAHPS,,,YOUR CARE FROM DOCTORS,,,
+85,1341_25,ASC-CAHPS,,,"PAIN, ENVIRONMENT & DISCHARGE",,,
+86,1341_25,ASC-CAHPS,,,Overall Ratings,,,
+87,1698_25,ASC-CAHPS,,Scheduling/Registration,,,,
+88,1698_25,ASC-CAHPS,,Care From Staff,,,,
+89,1698_25,ASC-CAHPS,,Wait Time,,,,
+90,1698_25,ASC-CAHPS,,Facility,,,,
+91,1698_25,ASC-CAHPS,,Rehab,,,,
+92,1698_25,ASC-CAHPS,,Same Day Surgery,,,,
+93,1698_25,ASC-CAHPS,,Overall Rating OF Hospital,,,,
+94,1698_25,ASC-CAHPS,,Willingness to Recommend the Hospital,,,,
+95,1698_25,ASC-CAHPS,,,YOUR CARE FROM NURSES,,,
+96,1698_25,ASC-CAHPS,,,YOUR CARE FROM DOCTORS,,,
+97,1698_25,ASC-CAHPS,,,Doctors,,,
+98,1698_25,ASC-CAHPS,,,YOUR EXPERIENCE IN THIS CENTER,,,
+99,1698_25,ASC-CAHPS,,,OVERALL RATING OF CENTER,,,
+100,1982_13,No reference,,,Before Your Arrival,,,
+101,1982_13,No reference,,,Overall Ratings,,,
+102,2809_184,ACO-8-CAHPS,,Health Promotion and Education,,,,
+103,2593_184,ACO-8-CAHPS,,Health Promotion and Education,,,,
+104,2595_184,ACO-12-CAHPS,,Access to Specialists,,,,
+105,2595_184,ACO-12-CAHPS,,Health Promotion and Education,,,,
+106,2595_184,ACO-12-CAHPS,,"Helpful, Courteous, and Respectful Office Staff",,,,
+107,2595_184,ACO-12-CAHPS,,Care Coordination (ACO 12),,,,
+108,2595_184,ACO-12-CAHPS,,Stewardship of Patient Resources,,,,
+109,2595_184,ACO-12-CAHPS,,,Care Coordination,,,
+110,2179_156,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+111,2179_156,PCMH-Adult,,Access To Care (PCMH),,,,
+112,2179_156,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+113,2172_156,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+114,2172_156,PCMH-Adult,,Access To Care (PCMH),,,,
+115,2172_156,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+116,2165_165,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+117,2165_165,PCMH-Adult,Access To Care (PCMH),,,d1de,,
+118,2186_210,PCMH-Child,,Access To Care (PCMH),,,,
+119,2186_210,PCMH-Child,,Attention to Care from Other Providers (PCMH),,,,
+120,2186_210,PCMH-Child,,Information About Care and Appointments (PCMH),,,,
+121,2186_210,PCMH-Child,,,Communication - Child Only,,,
+122,2186_210,PCMH-Child,,,Access to Care,,,
+123,2186_210,PCMH-Child,,,PCMH - Coordination of Care,,,
+124,2186_210,PCMH-Child,,,Attention to Care from Other Providers,,,
+125,2186_210,PCMH-Child,,,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,
+126,2186_210,PCMH-Child,,,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,
+127,2186_210,PCMH-Child,,,PCMH - Self Management Support,,,
+128,2186_210,PCMH-Child,Access to Care,,,,,H9DD
+129,2186_210,PCMH-Child,"Getting Timely Appointments, Care, and Information",,,,,H9DD
+130,2186_210,PCMH-Child,PCMH - Coordination of Care,,,,,H4FC
+131,2186_210,PCMH-Child,PCMH - Coordination of Care,,,,,H3DB
+132,2186_210,PCMH-Child,PCMH - Coordination of Care,,,,,Y4AM1
+133,2186_210,PCMH-Child,Attention to Care from Other Providers,,,,,H3DB
+134,2186_210,PCMH-Child,Attention to Care from Other Providers,,,,,Y4AM1
+135,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DB
+136,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DC
+137,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DD
+138,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DE
+139,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DK
+140,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DF
+141,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DF1
+142,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DG
+143,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DH
+144,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DJ
+145,2186_210,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DL
+146,2186_210,PCMH-Child,PCMH - Self Management Support,,,,,Y3FG
+147,2186_210,PCMH-Child,PCMH - Self Management Support,,,,,Y3FH
+148,2186_210,PCMH-Child,Providers Support You in Taking Care of Your Child's Health (PCMH),,,,,Y3FG
+149,2186_210,PCMH-Child,Providers Support You in Taking Care of Your Child's Health (PCMH),,,,,Y3FH
+150,2186_210,PCMH-Child,Follow-Up On Test Results,,,,,H4FC
+151,2186_210,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DB
+152,2186_210,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DC
+153,2186_210,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DD
+154,2186_210,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DE
+155,2186_210,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DK
+156,2186_210,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DG
+157,2186_210,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DJ
+158,2186_210,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DL
+159,2186_210,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DF1
+160,2186_210,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DH
+161,2186_210,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DF
+162,2186_210,PCMH-Child,"Getting Timely Appointments, Care, and Information",,,,h9dd,
+163,2186_178,PCMH-Child,,Access To Care (PCMH),,,,
+164,2186_178,PCMH-Child,,Attention to Care from Other Providers (PCMH),,,,
+165,2186_178,PCMH-Child,,Information About Care and Appointments (PCMH),,,,
+166,2186_178,PCMH-Child,,,Communication - Child Only,,,
+167,2186_178,PCMH-Child,,,Access to Care,,,
+168,2186_178,PCMH-Child,,,PCMH - Coordination of Care,,,
+169,2186_178,PCMH-Child,,,Attention to Care from Other Providers,,,
+170,2186_178,PCMH-Child,,,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,
+171,2186_178,PCMH-Child,,,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,
+172,2186_178,PCMH-Child,,,PCMH - Self Management Support,,,
+173,2186_178,PCMH-Child,Access to Care,,,,,H9DD
+174,2186_178,PCMH-Child,"Getting Timely Appointments, Care, and Information",,,,,H9DD
+175,2186_178,PCMH-Child,PCMH - Coordination of Care,,,,,H4FC
+176,2186_178,PCMH-Child,PCMH - Coordination of Care,,,,,H3DB
+177,2186_178,PCMH-Child,PCMH - Coordination of Care,,,,,Y4AM1
+178,2186_178,PCMH-Child,Attention to Care from Other Providers,,,,,H3DB
+179,2186_178,PCMH-Child,Attention to Care from Other Providers,,,,,Y4AM1
+180,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DB
+181,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DC
+182,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DK
+183,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DD
+184,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DE
+185,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DF
+186,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DF1
+187,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DG
+188,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DH
+189,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DJ
+190,2186_178,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DL
+191,2186_178,PCMH-Child,PCMH - Self Management Support,,,,,Y3FH
+192,2186_178,PCMH-Child,PCMH - Self Management Support,,,,,Y3FG
+193,2186_178,PCMH-Child,Providers Support You in Taking Care of Your Child's Health (PCMH),,,,,Y3FG
+194,2186_178,PCMH-Child,Providers Support You in Taking Care of Your Child's Health (PCMH),,,,,Y3FH
+195,2186_178,PCMH-Child,Follow-Up On Test Results,,,,,H4FC
+196,2186_178,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DD
+197,2186_178,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DE
+198,2186_178,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DB
+199,2186_178,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DC
+200,2186_178,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DK
+201,2186_178,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DG
+202,2186_178,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DL
+203,2186_178,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DH
+204,2186_178,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DJ
+205,2186_178,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DF
+206,2186_178,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DF1
+207,2186_178,PCMH-Child,"Getting Timely Appointments, Care, and Information",,,,h9dd,
+208,2165_139,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+209,2165_139,PCMH-Adult,Access To Care (PCMH),,,d1de,,
+210,2172_139,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+211,2172_139,PCMH-Adult,,Access To Care (PCMH),,,,
+212,2172_139,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+213,2172_154,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+214,2172_154,PCMH-Adult,,Access To Care (PCMH),,,,
+215,2172_154,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+216,2179_154,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+217,2179_154,PCMH-Adult,,Access To Care (PCMH),,,,
+218,2179_154,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+219,2172_158,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+220,2172_158,PCMH-Adult,,Access To Care (PCMH),,,,
+221,2172_158,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+222,2179_158,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+223,2179_158,PCMH-Adult,,Access To Care (PCMH),,,,
+224,2179_158,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+225,2559_18,ED-Transition,,,Survey Items,,,
+226,2563_18,ED-Transition,,,Survey Items,,,
+227,2558_18,ED-Transition,,,Survey Items,,,
+228,2558_69,ED-Transition,,,Survey Items,,,
+229,1628_82,HH-CAHPS,Communication Between Providers And Patients,,,h10a,,
+230,1629_88,HH-CAHPS,Communication Between Providers And Patients,,,h10a,,
+231,2639_70,Hospice,,Providing Emotional Support,,,,
+232,2639_70,Hospice,,Providing Support for Religious and Spiritual Beliefs,,,,
+233,2639_70,Hospice,,Overall Rating,,,,
+234,2639_70,Hospice,,Willingness to Recommend,,,,
+235,2639_70,Hospice,Hospice Team Communication,,,h2o,,
+236,2639_70,Hospice,Hospice (Other Questions),,,h4mh1,,
+237,2639_70,Hospice,Hospice (Other Questions),,,h4mh2,,
+238,2053_126,ICH-CAHPS,,Global Ratings,,,,
+239,2053_126,ICH-CAHPS,,,Nephrologists' Overall Rating,,,
+240,2053_126,ICH-CAHPS,,,Dialysis Center Staff Overall Rating,,,
+241,2053_126,ICH-CAHPS,,,Overall Center Rating,,,
+242,2228_16,HCAHPS,,,Additional Items,,,
+243,2889_74,Inpatient Behavioral,,,Additional Items,,,
+244,2842_76,HCAHPS,,Communication with Nurses,,,,
+245,2842_76,HCAHPS,,Communication with Doctors,,,,
+246,2842_76,HCAHPS,,Responsiveness of Hospital Staff,,,,
+247,2842_76,HCAHPS,,Cleanliness of the Hospital Environment,,,,
+248,2842_76,HCAHPS,,Quietness of the Hospital Environment,,,,
+249,2842_76,HCAHPS,,Pain Management,,,,
+250,2842_76,HCAHPS,,Communication about Medicines,,,,
+251,2842_76,HCAHPS,,Discharge Information,,,,
+252,2842_76,HCAHPS,,Transition of Care,,,,
+253,2842_76,HCAHPS,,,How Well Nurses Communicate With Your Child,,,
+254,2842_76,HCAHPS,,,How Well Doctors Communicate With Your Child,,,
+255,2842_76,HCAHPS,,,Communication Between You and Your Child’s Nurses,,,
+256,2842_76,HCAHPS,,,Communication Between You and Your Child’s Doctors,,,
+257,2842_76,HCAHPS,,,Helping Your Child Feel Comfortable,,,
+258,2842_76,HCAHPS,,,Keeping You Informed About Your Child’s Care,,,
+259,2842_76,HCAHPS,,,Responsiveness to the Call Button,,,
+260,2842_76,HCAHPS,,,Preventing Mistakes and Helping You Report Concerns,,,
+261,2842_76,HCAHPS,,,Paying Attention to Your Child’s Pain,,,
+262,2842_76,HCAHPS,,,Cleanliness of Hospital Room,,,
+263,2842_76,HCAHPS,,,Quietness of Hospital Room,,,
+264,2842_76,HCAHPS,,,Preparing You and Your Child to Leave the Hospital,,,
+265,2842_76,HCAHPS,,,Communication About Your Child’s Medicines,,,
+266,1008_32,IP Rehab,,Willingness to Recommend to Hospital,,,,
+267,1008_32,IP Rehab,,,Willingness to Recommend the Hospital,,,
+268,2165_166,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+269,2165_166,PCMH-Adult,Access To Care (PCMH),,,d1de,,
+270,2186_215,PCMH-Child,,Access To Care (PCMH),,,,
+271,2186_215,PCMH-Child,,Attention to Care from Other Providers (PCMH),,,,
+272,2186_215,PCMH-Child,,Information About Care and Appointments (PCMH),,,,
+273,2186_215,PCMH-Child,,,Communication - Child Only,,,
+274,2186_215,PCMH-Child,,,Access to Care,,,
+275,2186_215,PCMH-Child,,,PCMH - Coordination of Care,,,
+276,2186_215,PCMH-Child,,,Attention to Care from Other Providers,,,
+277,2186_215,PCMH-Child,,,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,
+278,2186_215,PCMH-Child,,,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,
+279,2186_215,PCMH-Child,,,PCMH - Self Management Support,,,
+280,2186_215,PCMH-Child,Access to Care,,,,,H9DD
+281,2186_215,PCMH-Child,"Getting Timely Appointments, Care, and Information",,,,,H9DD
+282,2186_215,PCMH-Child,PCMH - Coordination of Care,,,,,H4FC
+283,2186_215,PCMH-Child,PCMH - Coordination of Care,,,,,Y4AM1
+284,2186_215,PCMH-Child,PCMH - Coordination of Care,,,,,H3DB
+285,2186_215,PCMH-Child,Attention to Care from Other Providers,,,,,H3DB
+286,2186_215,PCMH-Child,Attention to Care from Other Providers,,,,,Y4AM1
+287,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DB
+288,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DC
+289,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DE
+290,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DD
+291,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Developmental,,,,,Y3DK
+292,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DF
+293,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DH
+294,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DG
+295,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DF1
+296,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DL
+297,2186_215,PCMH-Child,PCMH - Comprehensiveness/Whole Person Care — Child Prevention,,,,,Y3DJ
+298,2186_215,PCMH-Child,PCMH - Self Management Support,,,,,Y3FH
+299,2186_215,PCMH-Child,PCMH - Self Management Support,,,,,Y3FG
+300,2186_215,PCMH-Child,Providers Support You in Taking Care of Your Child's Health (PCMH),,,,,Y3FH
+301,2186_215,PCMH-Child,Providers Support You in Taking Care of Your Child's Health (PCMH),,,,,Y3FG
+302,2186_215,PCMH-Child,Follow-Up On Test Results,,,,,H4FC
+303,2186_215,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DK
+304,2186_215,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DD
+305,2186_215,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DC
+306,2186_215,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DB
+307,2186_215,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DE
+308,2186_215,PCMH-Child,Provider’s Attention to Your Child’s Growth and Development,,,,,Y3DG
+309,2186_215,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DF1
+310,2186_215,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DF
+311,2186_215,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DL
+312,2186_215,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DH
+313,2186_215,PCMH-Child,Provider’s Advice on Keeping Your Child Safe and Healthy,,,,,Y3DJ
+314,2186_215,PCMH-Child,"Getting Timely Appointments, Care, and Information",,,,h9dd,
+315,1403_17,Outpatient,,Scheduling/Registration,,,,
+316,1403_17,Outpatient,,Care From Staff,,,,
+317,1403_17,Outpatient,,Wait Time,,,,
+318,1403_17,Outpatient,,Facility,,,,
+319,1403_17,Outpatient,,Rehab,,,,
+320,1403_17,Outpatient,,Same Day Surgery,,,,
+321,1403_17,Outpatient,,,Scheduling,,,
+322,1403_17,Outpatient,,,Patient Care Staff,,,
+323,1403_17,Outpatient,,,Doctors,,,
+324,2789_17,Outpatient,CARE FROM STAFF,,,,h4am,
+325,2789_17,Outpatient,SAME DAY SURGERY,,,h4am,,
+326,2571_67,Outpatient,,Scheduling/Registration,,,,
+327,2571_67,Outpatient,,Care From Staff,,,,
+328,2571_67,Outpatient,,Wait Time,,,,
+329,2571_67,Outpatient,,Facility,,,,
+330,2571_67,Outpatient,,Rehab,,,,
+331,2571_67,Outpatient,,Same Day Surgery,,,,
+332,2571_67,Outpatient,,Overall Rating of Hospital,,,,
+333,2571_67,Outpatient,,,Scheduling,,,
+334,2571_67,Outpatient,,,Care From Therapists,,,
+335,2571_67,Outpatient,,,Patient Care Staff,,,
+336,2571_67,Outpatient,,,General Experience,,,
+337,2571_67,Outpatient,,,Overall Rating,,,
+338,2244_79,ASC-CAHPS,,Rehab,,,,
+339,2765_79,OP-Surgery,,,Survey Items,,,
+340,2880_79,Outpatient,,Scheduling/Registration,,,,
+341,2880_79,Outpatient,,Care From Staff,,,,
+342,2880_79,Outpatient,,Wait Time,,,,
+343,2880_79,Outpatient,,Facility,,,,
+344,2880_79,Outpatient,,Rehab,,,,
+345,2880_79,Outpatient,,Same Day Surgery,,,,
+346,2880_79,Outpatient,,Overall Rating of Hospital,,,,
+347,2880_79,Outpatient,,Willingness to Recommend the Hospital,,,,
+348,2880_79,Outpatient,,,Communications About Your Procedure,,,
+349,2880_79,Outpatient,,,Care Of Patients,,,
+350,2880_79,Outpatient,,,Preparations for Discharge and Recovery,,,
+351,2880_79,Outpatient,,,Overall Rating of Facility,,,
+352,2880_79,Outpatient,,,Willingness to Recommend the Facility,,,
+353,2710_79,OP-Surgery,,,Survey Items,,,
+354,2179_37,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+355,2179_37,PCMH-Adult,,Access To Care (PCMH),,,,
+356,2179_37,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+357,2172_37,PCMH-Adult,,Providers Discuss Medication Decisions (PCMH),,,,
+358,2172_37,PCMH-Adult,,Access To Care (PCMH),,,,
+359,2172_37,PCMH-Adult,,Information About Care and Appointments (PCMH),,,,
+360,2828_214,PQRS,,Patients' Rating of the Provider,,,,
+361,2828_214,PQRS,,Access to Specialists,,,,
+362,2828_214,PQRS,,Health Promotion and Education,,,,
+363,2828_214,PQRS,,"Helpful, Courteous, and Respectful Office Staff",,,,
+364,2828_214,PQRS,,Stewardship of Patient Resources,,,,
+365,2828_214,PQRS,Care Coordination,,,h64am,,
+366,2743_211,Walk-in Clinic,,,Scheduling,,,
+367,2743_211,Walk-in Clinic,,,General Experience,,,
+368,2743_211,Walk-in Clinic,,,Providers,,,
+369,2743_211,Walk-in Clinic,,,Instructions,,,
+370,2743_211,Walk-in Clinic,,,Overall Rating,,,
+371,2743_211,Walk-in Clinic,,,Likelihood To Recommend,,,
+372,2784_217,HCAHPS,,Cleanliness of the Hospital Environment,,,,
+373,2784_217,HCAHPS,,Quietness of the Hospital Environment,,,,
+374,2784_217,HCAHPS,,Overall Rating of Hospital,,,,
+375,2784_217,HCAHPS,,Transition of Care,,,,
+376,2784_217,HCAHPS,,,Communication Doctors,,,
+377,2784_217,HCAHPS,,,Cleanliness of Hospital Environment,,,
+378,2784_217,HCAHPS,,,Quietness of Hospital Environment,,,
+379,2784_217,HCAHPS,,,Overall Hospital Rating of Hospital,,,
+380,2784_217,HCAHPS,,,Care Transition,,,
+381,2784_217,HCAHPS,Communication with Doctors,,,h3o,,

@@ -1,0 +1,525 @@
+Survey,Category #,Category Label,QID,Question Short Text
+PQRS,1,"Getting Timely Appointments, Care, and Information",H61DA,"In the last 6 months, when you phoned this provider's office to get an appointment for care you needed right away, how often did you get an appointment as soon as you needed?"
+PQRS,1,"Getting Timely Appointments, Care, and Information",H61DB,"In the last 6 months, when you made an appointment for a check-up or routine care with this provider, how often did you get an appointment as soon as you needed?"
+PQRS,1,"Getting Timely Appointments, Care, and Information",H69DA,"In the last 6 months, when you phoned this provider's office during regular office hours, how often did you get an answer to your medical question that same day?"
+PQRS,1,"Getting Timely Appointments, Care, and Information",H69DB,"In the last 6 months, when you phoned this provider's office after regular office hours, how often did you get an answer to your medical question as soon as you needed?"
+PQRS,1,"Getting Timely Appointments, Care, and Information",H65DD,"Wait time includes time spent in the waiting room and exam room. In the last 6 months, how often did you see this provider within 15 minutes of your appointment time?"
+PQRS,2,How Well Providers Communicate With Patients,H63J,"In the last 6 months, how often did this provider explain things in a way that was easy to understand?"
+PQRS,2,How Well Providers Communicate With Patients,H63O,"In the last 6 months, how often did this provider listen carefully to you?"
+PQRS,2,How Well Providers Communicate With Patients,H63FF,"In the last 6 months, how often did this provider give you easy to understand information about these health questions or concerns?"
+PQRS,2,How Well Providers Communicate With Patients,H63D,"In the last 6 months, how often did this provider seem to know the important information about your medical history?"
+PQRS,2,How Well Providers Communicate With Patients,H63CS,"In the last 6 months, how often did this provider show respect for what you had to say?"
+PQRS,2,How Well Providers Communicate With Patients,H63AA,"In the last 6 months, how often did this provider spend enough time with you?"
+PQRS,3,Patients' Rating of the Provider,H30,"Using any number from 0 to 10, where 0 is the worst provider possible and 10 is the best provider possible, what number would you use to rate this provider?"
+PQRS,4,Access to Specialists,H633A,"In the last 6 months, how often was it easy to get appointments with specialists?"
+PQRS,4,Access to Specialists,H633D,"In the last 6 months, how often did the specialist you saw most seem to know the important information about your medical history?"
+PQRS,5,Health Promotion and Education,Y63D,"In the last 6 months, did you and anyone on your health care team talk about specific things you could do to prevent illness?"
+PQRS,5,Health Promotion and Education,Y63DH,"In the last 6 months, did you and anyone on your health care team talk about a healthy diet and healthy eating habits?"
+PQRS,5,Health Promotion and Education,Y63DJ,"In the last 6 months, did you and anyone on your health care team talk about the exercise or physical activity you get?"
+PQRS,5,Health Promotion and Education,Y63FG,"In the last 6 months, did anyone on your health care team talk with you about specific goals for your health?"
+PQRS,5,Health Promotion and Education,Y619D,"In the last 6 months, did anyone on your health care team ask you if there was a period of time when you felt sad, empty, or depressed?"
+PQRS,5,Health Promotion and Education,Y619W,"In the last 6 months, did you and anyone on your health care team talk about things in your life that worry you or cause you stress?"
+PQRS,6,Shared Decision-Making,Y4PP,Did you and this provider talk about the reasons you might want to take a medicine?
+PQRS,6,Shared Decision-Making,Y4PPN,Did you and this provider talk about the reasons you might not want to take a medicine?
+PQRS,6,Shared Decision-Making,Y4AM,"When you and this provider talked about starting or stopping a prescription medicine, did this provider ask what you thought was best for you?"
+PQRS,6,Shared Decision-Making,Y4TS,Did you and this provider talk about the reasons you might want to have surgery or procedure?
+PQRS,6,Shared Decision-Making,Y4TSN,Did you and this provider talk about the reasons you might not want to have the surgery or procedure?
+PQRS,6,Shared Decision-Making,Y4TSB,"When you and this provider talked about having surgery or a procedure, did this provider ask what you thought was best for you?"
+PQRS,6,Shared Decision-Making,Y64BE,"In the last 6 months, did you and this provider talk about how much of your personal health information you wanted shared with your family or friends?"
+PQRS,6,Shared Decision-Making,Y64BW,"In the last 6 months, did this provider respect your wishes about how much of your personal health information to share with your family or friends?"
+PQRS,7,"Helpful, Courteous, and Respectful Office Staff",H69H,"In the last 6 months, how often were clerks and receptionists at this provider's office as helpful as you thought they should be?"
+PQRS,7,"Helpful, Courteous, and Respectful Office Staff",H69C,"In the last 6 months, how often did clerks and receptionists at this provider's office treat you with courtesy and respect?"
+PQRS,8,Care Coordination,H63DM,"When you visited this provider in the last 6 months, how often did he or she have your medical records?"
+PQRS,8,Care Coordination,H64FC,"In the last 6 months, when this provider ordered a blood test, x-ray, or other test for you, how often did someone from this provider’s office follow up to give you those results?"
+PQRS,8,Care Coordination,H64AM,"In the last 6 months, how often did you and anyone on your health care team talk about all the prescription medicines you were taking?"
+PQRS,9,Between Visit Communication,D61DA,"In the last 6 months, did this provider's office contact you to remind you to make an appointment for tests or treatment?"
+PQRS,10,Helping You Take Medications as Directed,H64AO,"In the last 6 months, how often did this provider give you easy to understand instructions about how to take your medicines?"
+PQRS,10,Helping You Take Medications as Directed,Y4AO1,Was the written information this provider gave you easy to understand?
+PQRS,10,Helping You Take Medications as Directed,Y64A1,"In the last 6 months, did this provider suggest ways to help you remember to take your medicines?"
+PQRS,11,Stewardship of Patient Resources,Y64A2,"In the last 6 months, did you and anyone on your health care team talk about how much your prescription medicines cost?"
+CG-CAHPS 12 Month,1,"Getting Timely Appointments, Care, and Information",H1DA,Timeliness of appointment for immediate care
+CG-CAHPS 12 Month,1,"Getting Timely Appointments, Care, and Information",H1DB,Timeliness of appointment for check-up/routine care
+CG-CAHPS 12 Month,1,"Getting Timely Appointments, Care, and Information",H5DD,Provider being seen within 15 minutes of scheduled time
+CG-CAHPS 12 Month,1,"Getting Timely Appointments, Care, and Information",H9DA,Same day response to medical questions during regular hours
+CG-CAHPS 12 Month,1,"Getting Timely Appointments, Care, and Information",H9DB,Timeliness of answers to medical questions after regular hours
+CG-CAHPS 12 Month,2,How Well Providers Communicate With Patients,H3AA,Provider spends enough time with patient/parent
+CG-CAHPS 12 Month,2,How Well Providers Communicate With Patients,H3CS,Provider's respect for patient/parent
+CG-CAHPS 12 Month,2,How Well Providers Communicate With Patients,H3D,Provider's knowledge of patient's medical history
+CG-CAHPS 12 Month,2,How Well Providers Communicate With Patients,H3FF,Provider giving understandable instructions for care
+CG-CAHPS 12 Month,2,How Well Providers Communicate With Patients,H3J,Clear communication by providers
+CG-CAHPS 12 Month,2,How Well Providers Communicate With Patients,H3O,Providers listening carefully to patients
+CG-CAHPS 12 Month,3,"Helpful, Courteous, and Respectful Office Staff",H9C,Office staff treating you with courtesy and respect
+CG-CAHPS 12 Month,3,"Helpful, Courteous, and Respectful Office Staff",H9H,Helpfulness of office staff
+CG-CAHPS 12 Month,4,Follow-up on Test Results,H4FC,Follow up with test results
+CG-CAHPS 12 Month,5,Patients' Rating of the Provider,H30,Overall rating of provider
+CG-CAHPS Visit,1,"Getting Timely Appointments, Care, and Information",H1DA,Timeliness of appointment for immediate care
+CG-CAHPS Visit,1,"Getting Timely Appointments, Care, and Information",H1DB,Timeliness of appointment for check-up/routine care
+CG-CAHPS Visit,1,"Getting Timely Appointments, Care, and Information",H5DD,Provider being seen within 15 minutes of scheduled time
+CG-CAHPS Visit,1,"Getting Timely Appointments, Care, and Information",H9DA,Same day response to medical questions during regular hours
+CG-CAHPS Visit,1,"Getting Timely Appointments, Care, and Information",H9DB,Timeliness of answers to medical questions after regular hours
+CG-CAHPS Visit,2,How Well Providers Communicate With Patients,H3AAA,Provider spends enough time with patient/parent
+CG-CAHPS Visit,2,How Well Providers Communicate With Patients,H3CSA,Provider's respect for patient/parent
+CG-CAHPS Visit,2,How Well Providers Communicate With Patients,H3DA,Provider's knowledge of patient's medical history
+CG-CAHPS Visit,2,How Well Providers Communicate With Patients,H3FFA,Provider giving understandable instructions for care
+CG-CAHPS Visit,2,How Well Providers Communicate With Patients,H3JA,Clear communication by providers
+CG-CAHPS Visit,2,How Well Providers Communicate With Patients,H3OA,Providers listening carefully to patients
+CG-CAHPS Visit,3,"Helpful, Courteous, and Respectful Office Staff",H9CA,Office staff treating you with courtesy and respect
+CG-CAHPS Visit,3,"Helpful, Courteous, and Respectful Office Staff",H9HA,Helpfulness of office staff
+CG-CAHPS Visit,4,Follow-up on Test Results,Y4FC,Follow up with test results
+CG-CAHPS Visit,5,Patients' Rating of the Provider,H30,Overall rating of provider
+CG-CAHPS Visit,6,Willingness to Recommend,H17B,Patient Advocacy (likelihood to recommend)
+CG-CAHPS 12 Month Child,1,"Getting Timely Appointments, Care, and Information",H1DA,Timeliness of appointment for immediate care
+CG-CAHPS 12 Month Child,1,"Getting Timely Appointments, Care, and Information",H1DB,Timeliness of appointment for check-up/routine care
+CG-CAHPS 12 Month Child,1,"Getting Timely Appointments, Care, and Information",H5DD,Provider being seen within 15 minutes of scheduled time
+CG-CAHPS 12 Month Child,1,"Getting Timely Appointments, Care, and Information",H9DA,Same day response to medical questions during regular hours
+CG-CAHPS 12 Month Child,1,"Getting Timely Appointments, Care, and Information",H9DB,Timeliness of answers to medical questions after regular hours
+CG-CAHPS 12 Month Child,2,How Well Providers Communicate With Patients,H3AA,Provider spends enough time with patient/parent
+CG-CAHPS 12 Month Child,2,How Well Providers Communicate With Patients,H3CS,Provider's respect for patient/parent
+CG-CAHPS 12 Month Child,2,How Well Providers Communicate With Patients,H3D,Provider's knowledge of patient's medical history
+CG-CAHPS 12 Month Child,2,How Well Providers Communicate With Patients,H3FF,Provider giving understandable instructions for care
+CG-CAHPS 12 Month Child,2,How Well Providers Communicate With Patients,H3J,Clear communication by providers
+CG-CAHPS 12 Month Child,2,How Well Providers Communicate With Patients,H3O,Providers listening carefully to patients
+CG-CAHPS 12 Month Child,3,"Helpful, Courteous, and Respectful Office Staff",H9C,Office staff treating you with courtesy and respect
+CG-CAHPS 12 Month Child,3,"Helpful, Courteous, and Respectful Office Staff",H9H,Helpfulness of office staff
+CG-CAHPS 12 Month Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DB,Spoke with provider's office about child's learning ability
+CG-CAHPS 12 Month Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DC,Spoke with provider's office about normal behaviors
+CG-CAHPS 12 Month Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DD,Spoke with provider's office about child's growth
+CG-CAHPS 12 Month Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DE,Spoke with provider's office about child's moods and emotions
+CG-CAHPS 12 Month Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DG,Spoke with provider's office about time spent on the computer or watching TV
+CG-CAHPS 12 Month Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DK,Spoke with provider's office about child's ability to get along with others
+CG-CAHPS 12 Month Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DF,Spoke with provider's office about ways to prevent injuries
+CG-CAHPS 12 Month Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DF1,Received information about preventing injuries
+CG-CAHPS 12 Month Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DH,Spoke with provider's office about child's diet
+CG-CAHPS 12 Month Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DJ,Spoke with provider's office about child's exercise
+CG-CAHPS 12 Month Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DL,Spoke with provider's office about household problems affecting the child
+CG-CAHPS 12 Month Child,6,Follow-up on Test Results,H4FC,Provider’s office followed up with test results
+CG-CAHPS 12 Month Child,7,Patients' Rating of the Provider,H30,Rating of Provider
+CG-CAHPS Visit Child,1,"Getting Timely Appointments, Care, and Information",H1DA,Timeliness of appointment for immediate care
+CG-CAHPS Visit Child,1,"Getting Timely Appointments, Care, and Information",H1DB,Timeliness of appointment for check-up/routine care
+CG-CAHPS Visit Child,1,"Getting Timely Appointments, Care, and Information",H5DD,Provider being seen within 15 minutes of scheduled time
+CG-CAHPS Visit Child,1,"Getting Timely Appointments, Care, and Information",H9DA,Same day response to medical questions during regular hours
+CG-CAHPS Visit Child,1,"Getting Timely Appointments, Care, and Information",H9DB,Timeliness of answers to medical questions after regular hours
+CG-CAHPS Visit Child,2,How Well Providers Communicate With Patients,H3AAA,Provider spends enough time with patient/parent
+CG-CAHPS Visit Child,2,How Well Providers Communicate With Patients,H3CSA,Provider's respect for patient/parent
+CG-CAHPS Visit Child,2,How Well Providers Communicate With Patients,H3DA,Provider's knowledge of patient's medical history
+CG-CAHPS Visit Child,2,How Well Providers Communicate With Patients,H3FFA,Provider giving understandable instructions for care
+CG-CAHPS Visit Child,2,How Well Providers Communicate With Patients,H3JA,Clear communication by providers
+CG-CAHPS Visit Child,2,How Well Providers Communicate With Patients,H3OA,Providers listening carefully to patients
+CG-CAHPS Visit Child,3,"Helpful, Courteous, and Respectful Office Staff",H9CA,Office staff treating you with courtesy and respect
+CG-CAHPS Visit Child,3,"Helpful, Courteous, and Respectful Office Staff",H9HA,Helpfulness of office staff
+CG-CAHPS Visit Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DB,Spoke with provider's office about child's learning ability
+CG-CAHPS Visit Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DC,Spoke with provider's office about normal behaviors
+CG-CAHPS Visit Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DD,Spoke with provider's office about child's growth
+CG-CAHPS Visit Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DE,Spoke with provider's office about child's moods and emotions
+CG-CAHPS Visit Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DG,Spoke with provider's office about time spent on the computer or watching TV
+CG-CAHPS Visit Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DK,Spoke with provider's office about child's ability to get along with others
+CG-CAHPS Visit Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DF,Spoke with provider's office about ways to prevent injuries
+CG-CAHPS Visit Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DF1,Received information about preventing injuries
+CG-CAHPS Visit Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DH,Spoke with provider's office about child's diet
+CG-CAHPS Visit Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DJ,Spoke with provider's office about child's exercise
+CG-CAHPS Visit Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DL,Spoke with provider's office about household problems affecting the child
+CG-CAHPS Visit Child,6,Follow-up on Test Results,Y4FC,Follow up with test results
+CG-CAHPS Visit Child,7,Patients' Rating of the Provider,H30,Rating of Provider
+HH-CAHPS,1,Care Of Patients,H2HK,"In the last 2 months of care, how often did home health providers from this agency seem informed and up-to-date about all the care or treatment you got at home?"
+HH-CAHPS,1,Care Of Patients,H2CG,"In the last 2 months of care, how often did home health providers from this agency treat you as gently as possible?"
+HH-CAHPS,1,Care Of Patients,H2C,"In the last 2 months of care, how often did home health providers from this agency treat you with courtesy and respect?"
+HH-CAHPS,1,Care Of Patients,Y8HP,"In the last 2 months of care, did you have any problems with the care you got through this agency?"
+HH-CAHPS,2,Communication Between Providers And Patients,Y1H,"When you first started getting home health care from this agency, did someone from the agency tell you what care and services you would get?"
+HH-CAHPS,2,Communication Between Providers And Patients,H4Y,"In the last 2 months of care, how often did home health providers from this agency keep you informed about when they would arrive at your home?"
+HH-CAHPS,2,Communication Between Providers And Patients,H2J,"In the last 2 months of care, how often did home health providers from this agency explain things in a way that was easy to understand?"
+HH-CAHPS,2,Communication Between Providers And Patients,H2O,"In the last 2 months of care, how often did home health providers from this agency listen carefully to you?"
+HH-CAHPS,2,Communication Between Providers And Patients,Y10H,"In the last 2 months of care, when you contacted this agency’s office did you get the help or advice you needed?"
+HH-CAHPS,2,Communication Between Providers And Patients,H10A,"When you contacted this agency’s office, how long did it take for you to get the help or advice you needed?"
+HH-CAHPS,3,Specific Care Issues,Y1HA,"When you first started getting home health care from this agency, did someone from the agency talk with you about how to set up your home so you can move around safely?"
+HH-CAHPS,3,Specific Care Issues,Y1HB,"When you started getting home health care from this agency, did someone from the agency talk with you about all the prescription and over-the-counter medicines you were taking?"
+HH-CAHPS,3,Specific Care Issues,Y1HC,"When you started getting home health care from this agency, did someone from the agency ask to see all the prescription and over-the-counter medicines you were taking?"
+HH-CAHPS,3,Specific Care Issues,Y4HP,"In the last 2 months of care, did you and a home health provider from this agency talk about pain?"
+HH-CAHPS,3,Specific Care Issues,Y4P,"In the last 2 months of care, did home health providers from this agency talk with you about the purpose for taking the new or changed prescription medicines?"
+HH-CAHPS,3,Specific Care Issues,Y4Q,"In the last 2 months of care, did home health providers from this agency talk with you about when to take these medicines?"
+HH-CAHPS,3,Specific Care Issues,Y4S,"In the last 2 months of care, did home health providers from this agency talk with you about the side effects of these medicines?"
+HH-CAHPS,4,Overall Rating,H30,"Using any number from 0 to 10, where 0 is the worst home health care possible and 10 is the best home health care possible, what number would you use to rate your care from this agency's home health providers?"
+HH-CAHPS,5,Willingness To Recommend,H17,Would you recommend this agency to your family or friends if they needed home health care?
+Hospice,1,Hospice Team Communication,H2OH,How often did the hospice team listen carefully to you when you talked with them about problems with your family member's hospice care?
+Hospice,1,Hospice Team Communication,H2O,"While your family member was in hospice care, how often did the hospice team listen carefully to you?"
+Hospice,1,Hospice Team Communication,H2J,"While your family member was in hospice care, how often did the hospice team explain things in a way that was easy to understand?"
+Hospice,1,Hospice Team Communication,H4AAH,"While your family member was in hospice care, how often did the hospice team keep you informed about your family's condition?"
+Hospice,1,Hospice Team Communication,H4YH,"While your family member was in hospice care, how often did the hospice team keep you informed about when they would arrive to care for your family member?"
+Hospice,2,Getting Timely Care,H2AA2,"While your family member was in hospice care, when you or your family member asked for help from the hospice team, how often did you get help as soon as you needed it?"
+Hospice,2,Getting Timely Care,H9DH,"How often did you get the help you needed from the hospice team during evenings, weekends, or holidays?"
+Hospice,3,Treating Family Member with Respect,H4OR,"While your family member was in hospice care, how often did the hospice team treat your family member with dignity and respect?"
+Hospice,3,Treating Family Member with Respect,H2BD,"While your family member was in hospice care, how often did you feel that the hospice team really cared about your family member?"
+Hospice,4,Providing Emotional Support,H27B,"In the weeks after your family member died, how much emotional support did you get from the hospice team?"
+Hospice,4,Providing Emotional Support,H27A,"While your family member was in hospice care, how much emotional support did you get from the hospice team?"
+Hospice,5,Getting Help for Symptoms,H19D,How often did your family member receive the help he or she needed from the hospice team for feelings of anxiety or sadness?
+Hospice,5,Getting Help for Symptoms,H4AFH,Did your family member get as much help with pain as he or she needed?
+Hospice,5,Getting Help for Symptoms,H22C,How often did your family member get the help he or she needed for constipation?
+Hospice,5,Getting Help for Symptoms,H7BRH,How often did your family member get the help he or she needed for trouble breathing?
+Hospice,6,Information Continuity,H4AA2,"While your family member was in hospice care, how often did anyone from the hospice team give you confusing or contradictory information about your family member's condition or care?"
+Hospice,7,Understanding the Side Effects of Pain Medication,H4ANH,Side effects of pain medicine include things like sleepiness. Did any member of the hospice team discuss side effects of pain medicine with you or your family member?
+Hospice,8,Getting Hospice Care Training,H2ZZ4,Did the hospice team give you enough training about what to do if your family member became restless or agitated?
+Hospice,8,Getting Hospice Care Training,H2ZZ1,Did the hospice team give you enough training about if and when to give more pain medicine to your family member?
+Hospice,8,Getting Hospice Care Training,H2ZZ3,Did the hospice team give you enough training about how to help your family member if he or she had trouble breathing?
+Hospice,8,Getting Hospice Care Training,H2ZZ2,Did the hospice team give you enough training about what side effects to watch for from pain medicine?
+Hospice,9,Providing Support for Religious and Spiritual Beliefs,H4RE1,"While your family member was in hospice care, how much support for your religious and spiritual beliefs did you get from the hospice team?"
+Hospice,10,Hospice (Other Questions),H2ZZ5,Did the hospice team give you the training you needed about how to safely move your family member?
+Hospice,10,Hospice (Other Questions),H7HHS,Did the hospice team give you as much information as you wanted about what to expect while your family member was dying?
+Hospice,10,Hospice (Other Questions),H4MH1,"While your family member was in hospice care, how often did the nursing home staff and hospice team work well together to care for your family member?"
+Hospice,10,Hospice (Other Questions),H4MH2,"While your family member was in hospice care, how often was the information you were given about your family member by the nursing home staff different from the information you were given by the hospice team?"
+Hospice,11,Overall Rating,H30,"Using any number from 0 to 10, where 0 is the worst hospice care possible and 10 is the best hospice care possible, what number would you use to rate your family member’s hospice care?"
+Hospice,12,Willingness to Recommend,H17,Would you recommend this hospice to your friends and family?
+Outpatient,1,Scheduling/Registration,H1D,How satisfied were you with the ability to schedule the visit on a convenient day and time?
+Outpatient,1,Scheduling/Registration,H1B,How satisfied were you with the registration process?
+Outpatient,2,Care From Staff,H2C,How often did the patient care staff treat (you/the patient) with courtesy and respect?
+Outpatient,2,Care From Staff,H2O,How often did the patient care staff listen carefully to (you/the patient)?
+Outpatient,2,Care From Staff,H2J,How often did the patient care staff explain things in a way (you/the patient) could understand?
+Outpatient,2,Care From Staff,H5C,How often did the patient care staff do a good job in keeping (you/the patient) informed about delays in care or treatment?
+Outpatient,2,Care From Staff,H4WW,How often was the patient care staff able to calm (your/the patient’s) fears?
+Outpatient,2,Care From Staff,H2,"Using any number from 0 to 10, where 0 is the worst possible care and 10 is the best possible care, what number would you use to rate the care received from all the patient care staff who treated (you/the patient)?"
+Outpatient,3,Wait Time,H5D,How satisfied were you with the total amount of time (you/the patient) spent waiting at the facility?
+Outpatient,4,Facility,H6F,"During this visit, how satisfied were you with how easy it was to find your way around the facility?"
+Outpatient,4,Facility,H6AA,How satisfied were you with the cleanliness of the facility?
+Outpatient,5,Rehab,H2Z,How often did the patient care staff do a good job of involving (you/the patient) in the treatment plan and goal setting?
+Outpatient,5,Rehab,H2ZB,How satisfied were you with (your/the patient's) progress toward (your/the patient's) goals?
+Outpatient,6,Same Day Surgery,H4AF,How often did the patient care staff do everything they could to help (you/the patient) with (your/the patient's) pain?
+Outpatient,6,Same Day Surgery,H4AM,"Before giving (you/the patient) any new medicine, how often did the patient care staff tell (you/the patient) what the medicine was for?"
+Outpatient,6,Same Day Surgery,H4AA,How often did the staff do a good job informing (your/the patient's) designated family member or friend about (your/the patient's) care and treatment?
+Outpatient,6,Same Day Surgery,H8A,How satisfied were you with how clearly and completely (you were/the patient was) told what to do and what to expect after returning home?
+Outpatient,6,Same Day Surgery,H7X,How satisfied were you with how much (you were/the patient was) helped by this visit?
+Outpatient,6,Same Day Surgery,H3,"Using any number from 0 to 10, where 0 is the worst possible care and 10 is the best possible care, what number would you use to rate the care received from all the doctors who treated (you/the patient)?"
+Outpatient,7,Overall Rating of Hospital,H30,"Using any number from 0 to 10, where 0 is the worst outpatient facility possible and 10 is the best outpatient facility possible, what number would you use to rate this outpatient facility?"
+Outpatient,8,Willingness to Recommend the Hospital,H17,Would you recommend this outpatient facility to your friends and family?
+HCAHPS,1,Communication with Nurses,H2C,Courtesy/respect of nurses
+HCAHPS,1,Communication with Nurses,H2O,Nurses listening carefully to patients
+HCAHPS,1,Communication with Nurses,H2J,Clear communication by nurses
+HCAHPS,2,Communication with Doctors,H3C,Courtesy/respect of doctors
+HCAHPS,2,Communication with Doctors,H3O,Doctors listening carefully to patients
+HCAHPS,2,Communication with Doctors,H3J,Clear communication by doctors
+HCAHPS,3,Responsiveness of Hospital Staff,H2AA,Timely response to call buttons
+HCAHPS,3,Responsiveness of Hospital Staff,H4AP,Assistance with bathroom/bedpan as soon as wanted
+HCAHPS,4,Cleanliness of the Hospital Environment,H6A,Cleanliness of room/bathroom
+HCAHPS,5,Quietness of the Hospital Environment,H6O,Quietness of area around room at night
+HCAHPS,6,Pain Management,H4AE,Pain well controlled
+HCAHPS,6,Pain Management,H4AF,Staff doing everything they could to help with pain
+HCAHPS,7,Communication about Medicines,H4AM,Explanations of new medicines
+HCAHPS,7,Communication about Medicines,H4AN,Communication of possible side effects of new medicines
+HCAHPS,8,Discharge Information,Y8AA,Talking to patients about help after discharge
+HCAHPS,8,Discharge Information,Y8AB,Providing written discharge instructions
+HCAHPS,9,Overall Rating of Hospital,H30,Overall rating of hospital
+HCAHPS,10,Willingness to Recommend the Hospital,H17,Patient Advocacy (likelihood to recommend)
+HCAHPS,11,Transition of Care,H8PF,Taking patient and family preferences into account in deciding needs after discharge
+HCAHPS,11,Transition of Care,H8PM,Patient understood the purpose for taking medications at discharge
+HCAHPS,11,Transition of Care,H8PR,Patient had a good understanding of responsibilities for managing own health at discharge
+ED,1,Patient Care Staff,H2M,Urgency shown by the patient care staff in treating the patient's medical problem
+ED,1,Patient Care Staff,H4K,Coordination of care and services
+ED,1,Patient Care Staff,H4AM,Explanations of new medicines
+ED,1,Patient Care Staff,H4AF,Staff doing everything they could to help with pain
+ED,1,Patient Care Staff,H2W,Comfort asking patient care staff questions about care/treatment
+ED,1,Patient Care Staff,H5C,Informing patients of delays in care/treatment
+ED,1,Patient Care Staff,H2,Patient Care Staff - Overall Rating
+ED,2,Doctors,H3BC,Doctors caring about the patient as a person
+ED,2,Doctors,H3A,Amount of time doctors spend with patients
+ED,2,Doctors,H3,Doctors - Overall Rating
+ED,3,General ED Experience,H5B,Amount of time spent in the ED
+ED,3,General ED Experience,H8A,Clear/complete discharge instructions
+ED,3,General ED Experience,H7X,How much the patient was helped by this visit
+ED,4,Overall Rating,H30,Overall rating of emergency department
+ED,5,Likelihood to Recommend,H17,Patient Advocacy (likelihood to recommend)
+ICH-CAHPS,1,Nephrologists' Communication and Caring,H3O,
+ICH-CAHPS,1,Nephrologists' Communication and Caring,H3J,
+ICH-CAHPS,1,Nephrologists' Communication and Caring,H3CS,
+ICH-CAHPS,1,Nephrologists' Communication and Caring,H3AA,
+ICH-CAHPS,1,Nephrologists' Communication and Caring,H3BC,
+ICH-CAHPS,1,Nephrologists' Communication and Caring,Y2HD,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2O,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2J,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2CSD,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2AD,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2BC,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H4M,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,Y4BD,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,Y2WD,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H7BN,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2DH,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2DI,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2K,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,Y2DE,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2DT,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H5DH,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H6AD,
+ICH-CAHPS,2,Quality of Dialysis Center Care and Operations,H2DC,
+ICH-CAHPS,3,Providing Information to Patients,Y7H,
+ICH-CAHPS,3,Providing Information to Patients,Y11D,
+ICH-CAHPS,3,Providing Information to Patients,Y11DH,
+ICH-CAHPS,3,Providing Information to Patients,Y8AH,
+ICH-CAHPS,3,Providing Information to Patients,Y2DH,
+ICH-CAHPS,3,Providing Information to Patients,Y2DF,
+ICH-CAHPS,3,Providing Information to Patients,Y2DG,
+ICH-CAHPS,3,Providing Information to Patients,Y2DJ,
+ICH-CAHPS,3,Providing Information to Patients,Y2DK,
+ICH-CAHPS,4,Global Ratings,H3,
+ICH-CAHPS,4,Global Ratings,H2DS,
+ICH-CAHPS,4,Global Ratings,H30,
+NICU,1,Care from Nurses,H2C,How often did the nurses in the NICU treat you with courtesy and respect?
+NICU,1,Care from Nurses,H2O,How often did the nurses in the NICU listen carefully to you?
+NICU,1,Care from Nurses,H2J,How often did the nurses in the NICU explain things in a way you could understand?
+NICU,2,Care from Doctors,H3C,How often did doctors in the NICU treat you with courtesy and respect?
+NICU,2,Care from Doctors,H3O,How often did doctors in the NICU listen carefully to you?
+NICU,2,Care from Doctors,H3J,How often did the doctors in the NICU explain things in a way you could understand? 
+NICU,2,Care from Doctors,H3CN,How often was the doctor in the NICU who was in charge of your baby's care available to answer your questions and explain the plan of care to you?
+NICU,2,Care from Doctors,HCYX3,How often did the doctor in the NICU who was in charge of your baby's care include you in decisions about your baby's care?
+NICU,3,NICU Environment,H6ON,"How often was the environment in the NICU restful for your baby, with low lighting and low noise levels?"
+NICU,3,NICU Environment,H6EM,How often was the environment in the NICU family-friendly?
+NICU,3,NICU Environment,H4VN1,How often were you able to spend as much time as you wanted with your baby while he/she was in the NICU?
+NICU,3,NICU Environment,H4VN2,How often did you have as much privacy as you wanted in the NICU?
+NICU,4,NICU Experience,H4DN,How often did the staff in the NICU work well together as a team? 
+NICU,4,NICU Experience,H4AF1,How often did the staff in the NICU do everything they could to manage your baby's pain?
+NICU,4,NICU Experience,H2CWE,"How often did the staff in the NICU encourage you to participate in your baby's care, such as feeding and bathing?"
+NICU,4,NICU Experience,H4S,"How often did the staff in the NICU do a good job of providing social, emotional, and spiritual support?"
+NICU,5,Education / Support,H7BR1,How satisfied were you with the information and support you received from the NICU staff about breastfeeding your baby? 
+NICU,5,Education / Support,H8AB1,How satisfied were you with the information provided about resources and support services available to you after being discharged from the NICU?
+NICU,5,Education / Support,H8AB2,How satisfied were you with how well the staff in the NICU prepared you to care for your baby after leaving the hospital?
+NICU,6,Overall Rating,H30,"Using any number from 0 to 10, where 0 is the worst care possible and 10 is the best care possible, what number would you use to rate the care your baby received in the NICU?"
+NICU,7,Likelihood to Recommend,H17,Would you recommend this NICU to your friends and family if they needed NICU care for their baby?
+Urgent Care,1,Arrival & Registration,H6FC,Easy to find the Urgent Care center
+Urgent Care,1,Arrival & Registration,H1Q,Registration process completed quickly
+Urgent Care,1,Arrival & Registration,H1ET,Courtesy/respect of registration staff
+Urgent Care,1,Arrival & Registration,H10JD,Explanations of financial obligations and insurance matters
+Urgent Care,1,Arrival & Registration,H6EG,Comfort and attractiveness of the waiting area
+Urgent Care,2,General Experience,H2MD,Urgency shown by the staff in treating the patient's medical problem
+Urgent Care,2,General Experience,H4AF2,Staff doing everything they could to help with pain
+Urgent Care,2,General Experience,H5CD,Informing patients of delays in care or treatment
+Urgent Care,2,General Experience,H6AA1,Cleanliness of the facility
+Urgent Care,2,General Experience,H5BD,Amount of time spent in the Urgent Care center
+Urgent Care,3,Providers,H3CSD,Provider's respect for what patient had to say
+Urgent Care,3,Providers,H3OD,Provider listening carefully to patient
+Urgent Care,3,Providers,H3JD,Provider explained things in a way that was easy to understand
+Urgent Care,3,Providers,H3AAA,Provider spent enough time with patient during the most recent visit
+Urgent Care,3,Providers,H3,Providers - Overall Rating
+Urgent Care,4,Discharge Instructions,H8AA1,Clear/complete discharge instructions
+Urgent Care,4,Discharge Instructions,H4AM3,Patient was given easy-to-understand explanations regarding medications or prescriptions
+Urgent Care,5,Overall Rating,H30,Overall rating of Urgent Care center
+Urgent Care,6,Likelihood to Recommend,H17B,Willingness to recommend the Urgent Care center
+Walk-In Clinic,1,Scheduling,H1D1,Were you satisfied with the scheduling process?
+Walk-In Clinic,2,General Experience,H1ET,Did staff treat you with courtesy and respect?
+Walk-In Clinic,2,General Experience,H10JD,Did staff explain financial obligations and insurance matters?
+Walk-In Clinic,2,General Experience,H5CD,Did staff do a good job of keeping you informed of delays in care or treatment?
+Walk-In Clinic,2,General Experience,H6EG,Were you satisfied with the comfort of the waiting area?
+Walk-In Clinic,2,General Experience,H6AA1,Were you satisfied with the cleanliness of the facility?
+Walk-In Clinic,2,General Experience,H5BD,Were you satisfied with the total amount of time spent in the clinic?
+Walk-In Clinic,3,Providers,H3CSD,Did the provider show respect for what you had to say?
+Walk-In Clinic,3,Providers,H3OD,Did the provider listen carefully to you?
+Walk-In Clinic,3,Providers,H3JD,Did the provider explain things in a way that was easy to understand?
+Walk-In Clinic,3,Providers,H3AAA,Did the provider spend enough time with you?
+Walk-In Clinic,3,Providers,H4AF2,Did the provider do everything he or she could to help you with your pain?
+Walk-In Clinic,3,Providers,H3,"Using any number from 0 to 10, what number would you use to rate this provider?"
+Walk-In Clinic,4,Instructions,H8AA2,Were the instructions given by your provider clear?
+Walk-In Clinic,4,Instructions,H8AA3,Were the instructions given by your provider helpful?
+Walk-In Clinic,4,Instructions,H4AM3,Were you provided easy-to-understand explanations regarding those medications or prescriptions?
+Walk-In Clinic,5,Overall Rating,H30,"Using any number from 0 to 10, where 0 is the worst clinic possible and 10 is the best clinic possible, what number would you use to rate this clinic?"
+Walk-In Clinic,6,Likelihood to Recommend,H17,Would you recommend this clinic to your family and friends?
+PCMH-Adult,1,"Getting Timely Appointments, Care, and Information",H1DA,Got appointment for Urgent Care as soon as needed
+PCMH-Adult,1,"Getting Timely Appointments, Care, and Information",H1DB,Got appointment for check-up or routine care as soon as needed
+PCMH-Adult,1,"Getting Timely Appointments, Care, and Information",H5DD,Wait time to be seen within 15 minutes of appointment time
+PCMH-Adult,1,"Getting Timely Appointments, Care, and Information",H9DA,Got answer to phone question during regular office hours on same day
+PCMH-Adult,1,"Getting Timely Appointments, Care, and Information",H9DB,Got answer to phone question after hours as soon as needed
+PCMH-Adult,2,How Well Providers Communicate With Patients,H3AA,Provider spent enough time
+PCMH-Adult,2,How Well Providers Communicate With Patients,H3CS,Provider showed respect
+PCMH-Adult,2,How Well Providers Communicate With Patients,H3D,Provider knew important info about medical history
+PCMH-Adult,2,How Well Providers Communicate With Patients,H3FF,Provider gave easy to understand instructions about taking care of health problems
+PCMH-Adult,2,How Well Providers Communicate With Patients,H3J,Provider explained things clearly
+PCMH-Adult,2,How Well Providers Communicate With Patients,H3O,Provider listened carefully
+PCMH-Adult,3,"Helpful, Courteous, and Respectful Office Staff",H9C,Office staff showed courtesy and respect
+PCMH-Adult,3,"Helpful, Courteous, and Respectful Office Staff",H9H,Office staff was helpful
+PCMH-Adult,4,Providers Pay Attention to Your Mental or Emotional Health (PCMH),Y19D,"Provider asked if there was a period of time when patient felt sad, empty, or depressed"
+PCMH-Adult,4,Providers Pay Attention to Your Mental or Emotional Health (PCMH),Y19W,Talked with provider about things causing worry or stress
+PCMH-Adult,4,Providers Pay Attention to Your Mental or Emotional Health (PCMH),Y19P,"Talked with provider about personal problem, family, alcohol or drug use"
+PCMH-Adult,5,Providers Support You in Taking Care of Your Own Health (PCMH),Y3FG,Provider talked about specific goals
+PCMH-Adult,5,Providers Support You in Taking Care of Your Own Health (PCMH),Y3FH,Provider asked if there are things making it hard to take care of health
+PCMH-Adult,6,Providers Discuss Medication Decisions (PCMH),H4AM1,Provider talked about reasons to take a medicine
+PCMH-Adult,6,Providers Discuss Medication Decisions (PCMH),H4AM2,Provider talked about reasons not to take a medicine
+PCMH-Adult,6,Providers Discuss Medication Decisions (PCMH),Y4AM,Provider asked what patient thought was best regarding medicine
+PCMH-Adult,7,Follow-up on Test Results,H4FC,Provider’s office followed up with test results
+PCMH-Adult,8,Patients' Rating of the Provider,H30,Rating of Provider
+PCMH-Adult,9,Access To Care (PCMH),D1DE,Days waited for an appointment for Urgent Care
+PCMH-Adult,9,Access To Care (PCMH),H9DD,"Got needed care during evenings, weekends, or holidays"
+PCMH-Adult,10,Attention to Care from Other Providers (PCMH),H3DB,Provider was informed and up-to-date on care received from specialist
+PCMH-Adult,10,Attention to Care from Other Providers (PCMH),Y4AM1,Talked about prescription medicines at each visit
+PCMH-Adult,11,Information About Care and Appointments (PCMH),D9DA,"Provider's office gave information on what to do if care needed on evenings, weekends, or holidays"
+PCMH-Adult,11,Information About Care and Appointments (PCMH),D1D,Got reminders from provider's office between visits
+PCMH-Child,1,"Getting Timely Appointments, Care, and Information",H1DA,Got appointment for Urgent Care as soon as needed
+PCMH-Child,1,"Getting Timely Appointments, Care, and Information",H1DB,Got appointment for check-up or routine care as soon as needed
+PCMH-Child,1,"Getting Timely Appointments, Care, and Information",H5DD,Wait time to be seen within 15 minutes of appointment time
+PCMH-Child,1,"Getting Timely Appointments, Care, and Information",H9DA,Got answer to phone question during regular office hours on same day
+PCMH-Child,1,"Getting Timely Appointments, Care, and Information",H9DB,Got answer to phone question after hours as soon as needed
+PCMH-Child,2,How Well Providers Communicate With Patients,H3AA,Provider spent enough time
+PCMH-Child,2,How Well Providers Communicate With Patients,H3CS,Provider showed respect
+PCMH-Child,2,How Well Providers Communicate With Patients,H3D,Provider knew important info about medical history
+PCMH-Child,2,How Well Providers Communicate With Patients,H3FF,Provider gave easy to understand instructions about taking care of health problems
+PCMH-Child,2,How Well Providers Communicate With Patients,H3J,Provider explained things clearly
+PCMH-Child,2,How Well Providers Communicate With Patients,H3O,Provider listened carefully
+PCMH-Child,3,"Helpful, Courteous, and Respectful Office Staff",H9C,Office staff showed courtesy and respect
+PCMH-Child,3,"Helpful, Courteous, and Respectful Office Staff",H9H,Office staff was helpful
+PCMH-Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DB,Spoke with provider's office about child's learning ability
+PCMH-Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DC,Spoke with provider's office about normal behaviors
+PCMH-Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DD,Spoke with provider's office about child's growth
+PCMH-Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DE,Spoke with provider's office about child's moods and emotions
+PCMH-Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DG,Spoke with provider's office about time spent on the computer or watching TV
+PCMH-Child,4,Provider’s Attention to Your Child’s Growth and Development,Y3DK,Spoke with provider's office about child's ability to get along with others
+PCMH-Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DF,Spoke with provider's office about ways to prevent injuries
+PCMH-Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DF1,Received information about preventing injuries
+PCMH-Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DH,Spoke with provider's office about child's diet
+PCMH-Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DJ,Spoke with provider's office about child's exercise
+PCMH-Child,5,Provider’s Advice on Keeping Your Child Safe and Healthy,Y3DL,Spoke with provider's office about household problems affecting the child
+PCMH-Child,6,Providers Support You in Taking Care of Your Child's Health (PCMH),Y3FG,Provider talked about specific goals
+PCMH-Child,6,Providers Support You in Taking Care of Your Child's Health (PCMH),Y3FH,Provider asked if there are things making it hard to take care of health
+PCMH-Child,7,Follow-up on Test Results,H4FC,Provider’s office followed up with test results
+PCMH-Child,8,Patients' Rating of the Provider,H30,Rating of Provider
+PCMH-Child,9,Access To Care (PCMH),D1DE,Days waited for an appointment for Urgent Care
+PCMH-Child,9,Access To Care (PCMH),H9DD,"Got needed care during evenings, weekends, or holidays"
+PCMH-Child,10,Attention to Care from Other Providers (PCMH),H3DB,Provider was informed and up-to-date on care received from specialist
+PCMH-Child,10,Attention to Care from Other Providers (PCMH),Y4AM1,Talked about prescription medicines at each visit
+PCMH-Child,11,Information About Care and Appointments (PCMH),D9DA,"Provider's office gave information on what to do if care needed on evenings, weekends, or holidays"
+PCMH-Child,11,Information About Care and Appointments (PCMH),D1D,Got reminders from provider's office between visits
+ASCCAHPS,1,Scheduling/Registration,H1D,How satisfied were you with the ability to schedule the visit on a convenient day and time?
+ASCCAHPS,1,Scheduling/Registration,H1B,How satisfied were you with the registration process?
+ASCCAHPS,2,Care From Staff,H2C,How often did the patient care staff treat (you/the patient) with courtesy and respect?
+ASCCAHPS,2,Care From Staff,H2O,How often did the patient care staff listen carefully to (you/the patient)?
+ASCCAHPS,2,Care From Staff,H2J,How often did the patient care staff explain things in a way (you/the patient) could understand?
+ASCCAHPS,2,Care From Staff,H5C,How often did the patient care staff do a good job in keeping (you/the patient) informed about delays in care or treatment?
+ASCCAHPS,2,Care From Staff,H4WW,How often was the patient care staff able to calm (your/the patient’s) fears?
+ASCCAHPS,2,Care From Staff,H2,"Using any number from 0 to 10, where 0 is the worst possible care and 10 is the best possible care, what number would you use to rate the care received from all the patient care staff who treated (you/the patient)?"
+ASCCAHPS,3,Wait Time,H5D,How satisfied were you with the total amount of time (you/the patient) spent waiting at the facility?
+ASCCAHPS,4,Facility,H6F,"During this visit, how satisfied were you with how easy it was to find your way around the facility?"
+ASCCAHPS,4,Facility,H6AA,How satisfied were you with the cleanliness of the facility?
+ASCCAHPS,5,Rehab,H2Z,How often did the patient care staff do a good job of involving (you/the patient) in the treatment plan and goal setting?
+ASCCAHPS,5,Rehab,H2ZB,How satisfied were you with (your/the patient's) progress toward (your/the patient's) goals?
+ASCCAHPS,6,Same Day Surgery,H4AF,How often did the patient care staff do everything they could to help (you/the patient) with (your/the patient's) pain?
+ASCCAHPS,6,Same Day Surgery,H4AM,"Before giving (you/the patient) any new medicine, how often did the patient care staff tell (you/the patient) what the medicine was for?"
+ASCCAHPS,6,Same Day Surgery,H4AA,How often did the staff do a good job informing (your/the patient's) designated family member or friend about (your/the patient's) care and treatment?
+ASCCAHPS,6,Same Day Surgery,H8A,How satisfied were you with how clearly and completely (you were/the patient was) told what to do and what to expect after returning home?
+ASCCAHPS,6,Same Day Surgery,H7X,How satisfied were you with how much (you were/the patient was) helped by this visit?
+ASCCAHPS,6,Same Day Surgery,H3,"Using any number from 0 to 10, where 0 is the worst possible care and 10 is the best possible care, what number would you use to rate the care received from all the doctors who treated (you/the patient)?"
+ASCCAHPS,7,Overall Rating OF Hospital,H30,"Using any number from 0 to 10, where 0 is the worst outpatient facility possible and 10 is the best outpatient facility possible, what number would you use to rate this outpatient facility?"
+ASCCAHPS,8,Willingness to Recommend the Hospital,H17,Would you recommend this outpatient facility to your friends and family?
+ACO-8-CAHPS,1,"Getting Timely Appointments, Care, and Information",H61DA,"In the last 6 months, when you phoned this provider's office to get an appointment for care you needed right away, how often did you get an appointment as soon as you needed?"
+ACO-8-CAHPS,1,"Getting Timely Appointments, Care, and Information",H61DB,"In the last 6 months, when you made an appointment for a check-up or routine care with this provider, how often did you get an appointment as soon as you needed?"
+ACO-8-CAHPS,1,"Getting Timely Appointments, Care, and Information",H69DA,"In the last 6 months, when you phoned this provider's office during regular office hours, how often did you get an answer to your medical question that same day?"
+ACO-8-CAHPS,1,"Getting Timely Appointments, Care, and Information",H69DB,"In the last 6 months, when you phoned this provider's office after regular office hours, how often did you get an answer to your medical question as soon as you needed?"
+ACO-8-CAHPS,1,"Getting Timely Appointments, Care, and Information",H65DD,"Wait time includes time spent in the waiting room and exam room. In the last 6 months, how often did you see this provider within 15 minutes of your appointment time?"
+ACO-8-CAHPS,2,How Well Providers Communicate With Patients,H63J,"In the last 6 months, how often did this provider explain things in a way that was easy to understand?"
+ACO-8-CAHPS,2,How Well Providers Communicate With Patients,H63O,"In the last 6 months, how often did this provider listen carefully to you?"
+ACO-8-CAHPS,2,How Well Providers Communicate With Patients,H63FF,"In the last 6 months, how often did this provider give you easy to understand information about these health questions or concerns?"
+ACO-8-CAHPS,2,How Well Providers Communicate With Patients,H63D,"In the last 6 months, how often did this provider seem to know the important information about your medical history?"
+ACO-8-CAHPS,2,How Well Providers Communicate With Patients,H63CS,"In the last 6 months, how often did this provider show respect for what you had to say?"
+ACO-8-CAHPS,2,How Well Providers Communicate With Patients,H63AA,"In the last 6 months, how often did this provider spend enough time with you?"
+ACO-8-CAHPS,3,Patients' Rating of the Provider,H30,"Using any number from 0 to 10, where 0 is the worst provider possible and 10 is the best provider possible, what number would you use to rate this provider?"
+ACO-8-CAHPS,4,Access to Specialists,H633A,"In the last 6 months, how often was it easy to get appointments with specialists?"
+ACO-8-CAHPS,4,Access to Specialists,H633D,"In the last 6 months, how often did the specialist you saw most seem to know the important information about your medical history?"
+ACO-8-CAHPS,5,Health Promotion and Education,Y63D,"In the last 6 months, did you and anyone on your health care team talk about specific things you could do to prevent illness?"
+ACO-8-CAHPS,5,Health Promotion and Education,Y63DH,"In the last 6 months, did you and anyone on your health care team talk about a healthy diet and healthy eating habits?"
+ACO-8-CAHPS,5,Health Promotion and Education,Y63DJ,"In the last 6 months, did you and anyone on your health care team talk about the exercise or physical activity you get?"
+ACO-8-CAHPS,5,Health Promotion and Education,Y63FG,"In the last 6 months, did anyone on your health care team talk with you about specific goals for your health?"
+ACO-8-CAHPS,5,Health Promotion and Education,Y619D,"In the last 6 months, did anyone on your health care team ask you if there was a period of time when you felt sad, empty, or depressed?"
+ACO-8-CAHPS,5,Health Promotion and Education,Y619W,"In the last 6 months, did you and anyone on your health care team talk about things in your life that worry you or cause you stress?"
+ACO-8-CAHPS,6,Shared Decision-Making,Y4PP,Did you and this provider talk about the reasons you might want to take a medicine?
+ACO-8-CAHPS,6,Shared Decision-Making,Y4PPN,Did you and this provider talk about the reasons you might not want to take a medicine?
+ACO-8-CAHPS,6,Shared Decision-Making,Y4AM,"When you and this provider talked about starting or stopping a prescription medicine, did this provider ask what you thought was best for you?"
+ACO-8-CAHPS,6,Shared Decision-Making,Y4TS,Did you and this provider talk about the reasons you might want to have surgery or procedure?
+ACO-8-CAHPS,6,Shared Decision-Making,Y4TSN,Did you and this provider talk about the reasons you might not want to have the surgery or procedure?
+ACO-8-CAHPS,6,Shared Decision-Making,Y4TSB,"When you and this provider talked about having surgery or a procedure, did this provider ask what you thought was best for you?"
+ACO-8-CAHPS,6,Shared Decision-Making,Y64BE,"In the last 6 months, did you and this provider talk about how much of your personal health information you wanted shared with your family or friends?"
+ACO-8-CAHPS,6,Shared Decision-Making,Y64BW,"In the last 6 months, did this provider respect your wishes about how much of your personal health information to share with your family or friends?"
+ACO-8-CAHPS,7,"Helpful, Courteous, and Respectful Office Staff",H69H,"In the last 6 months, how often were clerks and receptionists at this provider's office as helpful as you thought they should be?"
+ACO-8-CAHPS,7,"Helpful, Courteous, and Respectful Office Staff",H69C,"In the last 6 months, how often did clerks and receptionists at this provider's office treat you with courtesy and respect?"
+ACO-8-CAHPS,8,Care Coordination,H64FC,"In the last 6 months, when this provider ordered a blood test, x-ray, or other test for you, how often did someone from this provider’s office follow up to give you those results?"
+ACO-12-CAHPS,1,"Getting Timely Appointments, Care, and Information",H61DA,"In the last 6 months, when you phoned this provider's office to get an appointment for care you needed right away, how often did you get an appointment as soon as you needed?"
+ACO-12-CAHPS,1,"Getting Timely Appointments, Care, and Information",H61DB,"In the last 6 months, when you made an appointment for a check-up or routine care with this provider, how often did you get an appointment as soon as you needed?"
+ACO-12-CAHPS,1,"Getting Timely Appointments, Care, and Information",H69DA,"In the last 6 months, when you phoned this provider's office during regular office hours, how often did you get an answer to your medical question that same day?"
+ACO-12-CAHPS,1,"Getting Timely Appointments, Care, and Information",H69DB,"In the last 6 months, when you phoned this provider's office after regular office hours, how often did you get an answer to your medical question as soon as you needed?"
+ACO-12-CAHPS,1,"Getting Timely Appointments, Care, and Information",H65DD,"Wait time includes time spent in the waiting room and exam room. In the last 6 months, how often did you see this provider within 15 minutes of your appointment time?"
+ACO-12-CAHPS,2,How Well Providers Communicate With Patients,H63J,"In the last 6 months, how often did this provider explain things in a way that was easy to understand?"
+ACO-12-CAHPS,2,How Well Providers Communicate With Patients,H63O,"In the last 6 months, how often did this provider listen carefully to you?"
+ACO-12-CAHPS,2,How Well Providers Communicate With Patients,H63FF,"In the last 6 months, how often did this provider give you easy to understand information about these health questions or concerns?"
+ACO-12-CAHPS,2,How Well Providers Communicate With Patients,H63D,"In the last 6 months, how often did this provider seem to know the important information about your medical history?"
+ACO-12-CAHPS,2,How Well Providers Communicate With Patients,H63CS,"In the last 6 months, how often did this provider show respect for what you had to say?"
+ACO-12-CAHPS,2,How Well Providers Communicate With Patients,H63AA,"In the last 6 months, how often did this provider spend enough time with you?"
+ACO-12-CAHPS,3,Patients' Rating of the Provider,H30,"Using any number from 0 to 10, where 0 is the worst provider possible and 10 is the best provider possible, what number would you use to rate this provider?"
+ACO-12-CAHPS,4,Access to Specialists,H633A,"In the last 6 months, how often was it easy to get appointments with specialists?"
+ACO-12-CAHPS,4,Access to Specialists,H633D,"In the last 6 months, how often did the specialist you saw most seem to know the important information about your medical history?"
+ACO-12-CAHPS,5,Health Promotion and Education,Y63D,"In the last 6 months, did you and anyone on your health care team talk about specific things you could do to prevent illness?"
+ACO-12-CAHPS,5,Health Promotion and Education,Y63DH,"In the last 6 months, did you and anyone on your health care team talk about a healthy diet and healthy eating habits?"
+ACO-12-CAHPS,5,Health Promotion and Education,Y63DJ,"In the last 6 months, did you and anyone on your health care team talk about the exercise or physical activity you get?"
+ACO-12-CAHPS,5,Health Promotion and Education,Y63FG,"In the last 6 months, did anyone on your health care team talk with you about specific goals for your health?"
+ACO-12-CAHPS,5,Health Promotion and Education,Y619D,"In the last 6 months, did anyone on your health care team ask you if there was a period of time when you felt sad, empty, or depressed?"
+ACO-12-CAHPS,5,Health Promotion and Education,Y619W,"In the last 6 months, did you and anyone on your health care team talk about things in your life that worry you or cause you stress?"
+ACO-12-CAHPS,6,Shared Decision-Making,Y4PP,Did you and this provider talk about the reasons you might want to take a medicine?
+ACO-12-CAHPS,6,Shared Decision-Making,Y4PPN,Did you and this provider talk about the reasons you might not want to take a medicine?
+ACO-12-CAHPS,6,Shared Decision-Making,Y4AM,"When you and this provider talked about starting or stopping a prescription medicine, did this provider ask what you thought was best for you?"
+ACO-12-CAHPS,6,Shared Decision-Making,Y4TS,Did you and this provider talk about the reasons you might want to have surgery or procedure?
+ACO-12-CAHPS,6,Shared Decision-Making,Y4TSN,Did you and this provider talk about the reasons you might not want to have the surgery or procedure?
+ACO-12-CAHPS,6,Shared Decision-Making,Y4TSB,"When you and this provider talked about having surgery or a procedure, did this provider ask what you thought was best for you?"
+ACO-12-CAHPS,6,Shared Decision-Making,Y64BE,"In the last 6 months, did you and this provider talk about how much of your personal health information you wanted shared with your family or friends?"
+ACO-12-CAHPS,6,Shared Decision-Making,Y64BW,"In the last 6 months, did this provider respect your wishes about how much of your personal health information to share with your family or friends?"
+ACO-12-CAHPS,7,"Helpful, Courteous, and Respectful Office Staff",H69H,"In the last 6 months, how often were clerks and receptionists at this provider's office as helpful as you thought they should be?"
+ACO-12-CAHPS,7,"Helpful, Courteous, and Respectful Office Staff",H69C,"In the last 6 months, how often did clerks and receptionists at this provider's office treat you with courtesy and respect?"
+ACO-12-CAHPS,8,Care Coordination (ACO 12),H63DM,"When you visited this provider in the last 6 months, how often did he or she have your medical records?"
+ACO-12-CAHPS,8,Care Coordination (ACO 12),H64FC,"In the last 6 months, when this provider ordered a blood test, x-ray, or other test for you, how often did someone from this provider’s office follow up to give you those results?"
+ACO-12-CAHPS,8,Care Coordination (ACO 12),H64AM,"In the last 6 months, how often did you and anyone on your health care team talk about all the prescription medicines you were taking?"
+ACO-12-CAHPS,9,Between Visit Communication,D61DA,"In the last 6 months, did this provider's office contact you to remind you to make an appointment for tests or treatment?"
+ACO-12-CAHPS,10,Helping You Take Medications as Directed,H64AO,"In the last 6 months, how often did this provider give you easy to understand instructions about how to take your medicines?"
+ACO-12-CAHPS,10,Helping You Take Medications as Directed,Y4AO1,Was the written information this provider gave you easy to understand?
+ACO-12-CAHPS,10,Helping You Take Medications as Directed,Y64A1,"In the last 6 months, did this provider suggest ways to help you remember to take your medicines?"
+ACO-12-CAHPS,11,Stewardship of Patient Resources,Y64A2,"In the last 6 months, did you and anyone on your health care team talk about how much your prescription medicines cost?"
+Inpatient Behavioral,1,Counseling and Treatment,H2O,Staff Listen Carefully
+Inpatient Behavioral,1,Counseling and Treatment,H2J,Staff Explain Things
+Inpatient Behavioral,1,Counseling and Treatment,H2CR,Staff Show Respect
+Inpatient Behavioral,1,Counseling and Treatment,H2AT,Staff Spend Time
+Inpatient Behavioral,1,Counseling and Treatment,H6DB,Felt Safe
+Inpatient Behavioral,1,Counseling and Treatment,Y4AN,Medication Side Effects
+Inpatient Behavioral,1,Counseling and Treatment,H2ZT,Involved in Counseling/Treatment
+Inpatient Behavioral,1,Counseling and Treatment,Y4NC,Include Family or Friends
+Inpatient Behavioral,1,Counseling and Treatment,Y11A,Self-Help or Support Groups
+Inpatient Behavioral,1,Counseling and Treatment,Y11B,Information About Counseling
+Inpatient Behavioral,1,Counseling and Treatment,Y11C,Manage Your Condition
+Inpatient Behavioral,1,Counseling and Treatment,Y11D,Information About Your Rights
+Inpatient Behavioral,1,Counseling and Treatment,Y11M,Refuse Specific Type of Medicine/Treatment
+Inpatient Behavioral,1,Counseling and Treatment,Y4BN,Private Information
+Inpatient Behavioral,1,Counseling and Treatment,Y11R,Care Received
+Inpatient Behavioral,1,Counseling and Treatment,H11C,Helped by Counseling/Treatment
+Inpatient Behavioral,2,Overall Rating,H30,Overall Rating
+Inpatient Behavioral,3,Willingness to Recommend,H17,Would Recommend
+Outpatient Behavioral,1,Counseling and Treatment,H2O,Staff Listen Carefully
+Outpatient Behavioral,1,Counseling and Treatment,H2J,Staff Explain Things
+Outpatient Behavioral,1,Counseling and Treatment,H2CR,Staff Show Respect
+Outpatient Behavioral,1,Counseling and Treatment,H2AT,Staff Spend Time
+Outpatient Behavioral,1,Counseling and Treatment,H6DB,Felt Safe
+Outpatient Behavioral,1,Counseling and Treatment,Y4AN,Medication Side Effects
+Outpatient Behavioral,1,Counseling and Treatment,H2ZT,Involved in Counseling/Treatment
+Outpatient Behavioral,1,Counseling and Treatment,Y4NC,Include Family or Friends
+Outpatient Behavioral,1,Counseling and Treatment,Y11A,Self-Help or Support Groups
+Outpatient Behavioral,1,Counseling and Treatment,Y11B,Information About Counseling
+Outpatient Behavioral,1,Counseling and Treatment,Y11C,Manage Your Condition
+Outpatient Behavioral,1,Counseling and Treatment,Y11D,Information About Your Rights
+Outpatient Behavioral,1,Counseling and Treatment,Y11M,Refuse Specific Type of Medicine/Treatment
+Outpatient Behavioral,1,Counseling and Treatment,Y4BN,Private Information
+Outpatient Behavioral,1,Counseling and Treatment,Y11R,Care Received
+Outpatient Behavioral,1,Counseling and Treatment,H11C,Helped by Counseling/Treatment
+Outpatient Behavioral,2,Overall Rating,H30,Overall Rating
+Outpatient Behavioral,3,Willingness to Recommend,H17,Would Recommend
+Nursing Home,1,Environment,H6A,How often is the resident's room and bathroom kept clean?
+Nursing Home,1,Environment,H6O,How often is the area around the resident's room kept quiet at night?
+Nursing Home,1,Environment,H6H,How often do you feel the resident is safe and secure in this facility?
+Nursing Home,1,Environment,H4AP,How often does the resident get help using the bathroom or using a bedpan as soon as needed?
+Nursing Home,1,Environment,H4U,"How satisfied are you with the assistance provided helping the resident with daily activities, such as dressing, eating and bathing?"
+Nursing Home,1,Environment,H7C,How satisfied are you with the overall quality of the food service?
+Nursing Home,1,Environment,H4X,How satisfied are you with the activities offered by the facility?
+Nursing Home,1,Environment,H4Z,How satisfied are you with how well the staff keeps you informed about the resident's health status?
+Nursing Home,2,Long Term Care Providers,H2C,How often does the staff treat the resident with courtesy and respect?
+Nursing Home,2,Long Term Care Providers,H2O,How often does the staff listen carefully to the resident?
+Nursing Home,2,Long Term Care Providers,H2J,How often does the staff explain things in a way that was easy for the resident to understand?
+Nursing Home,2,Long Term Care Providers,H2AA,"After pressing the call button, how often does the resident get help as soon as needed?"
+Nursing Home,2,Long Term Care Providers,H2K,How often does the staff behave in a professional manner?
+Nursing Home,2,Long Term Care Providers,H4AE,How often is the resident's pain well controlled?
+Nursing Home,2,Long Term Care Providers,H2,"Using any number from 0 to 10, where 0 is the worst possible care and 10 is the best possible care, what number would you use to rate the care received from all the staff?"
+Nursing Home,3,Overall Rating,H17,Would you recommend this facility to your friends and family if they needed long-term care?
+Nursing Home,3,Overall Rating,H30,"Using any number from 0 to 10, where 0 is the worst long-term care facility possible and 10 is the best long-term care facility possible, what number would you use to rate this facility?"
